@@ -1,5 +1,7 @@
 
 
+# Introduction and practical information for workshops
+
 
 ## Any installation issues?
 
