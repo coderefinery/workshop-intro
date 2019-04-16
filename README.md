@@ -43,4 +43,4 @@ If yes, please talk to us.
 - coffee breaks
 - lunch options (please list on white board or collect in a shared document or discuss map)
 - certificates available upon request to support@coderefinery.org
-- if you like what we do, reach out via https://twitter.com/coderefine
+- if you like what we do, reach out via https://twitter.com/coderefine and/or join us on https://coderefinery.zulipchat.com: you can listen in, follow certain threads, participate, and influence.
