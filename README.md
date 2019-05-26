@@ -1,11 +1,15 @@
 
 
-# Introduction and practical information for workshops
+# CodeRefinery: welcome and practical information for workshops
 
-
-## Any installation issues?
-
-If yes, please talk to us.
+## Arrival
+- Come on in, please try to sit next to someone, because we do lots of
+  group work.
+- **Any installation issues?  please talk to us.**
+- Check [git configuration instructions (short
+  link)](https://coderefinery.github.io/git-refresher/01-setup/#configuring-git)
+  link.
+- If you want, check the general [Git refresher (short link)](https://coderefinery.github.io/git-refresher/)
 
 
 ## Welcome
