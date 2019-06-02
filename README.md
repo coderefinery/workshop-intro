@@ -3,6 +3,7 @@
 # CodeRefinery: welcome and practical information for workshops
 
 ## Arrival
+
 - Come on in, please try to sit next to someone, because we do lots of
   group work.
 - **Any installation issues?  please talk to us.**
@@ -13,39 +14,42 @@
 
 ## Welcome
 
-- few words about the project: https://coderefinery.org sponsored by https://neic.no and partners
+- Few words about the project: https://coderefinery.org sponsored by https://neic.no and partners
 - GitLab for Nordic research software: https://source.coderefinery.org
-- presentation of instructors and helpers
-- presentation of participants
-- distribute CodeRefinery stickers to attendees and encourage them to add it on their laptop
+- Presentation of instructors and helpers
+- Presentation of participants
+- Distribute CodeRefinery stickers to attendees and encourage them to add it on their laptop
 
 
 ## Program for the next 3 days
 
-- emphasis on version control
-- examples are on GitHub but OK to use another platform instead
-- challenge: different programming languages
-- quick look at the program: https://coderefinery.org/workshops/
-- We don't aim to just teach you what is in the program. One other goal is to leave you with a personal computer set up to do science independently.
-- all material is online and CC-BY-SA
+- Emphasis on version control
+- Examples are on GitHub but OK to use another platform instead
+- Challenge: different programming languages
+- Quick look at the program: https://coderefinery.org/workshops/
+- We don't aim to just teach you what is in the program. One other goal is to
+  leave you with a personal computer set up to do science independently.
+- All material is online and CC-BY-SA
 
 
 ## Interactive style
 
 - Software Carpentry style of teaching
 - Code-along
-- sticky notes system (red=request a helper come by, yellow=done with exercise)
-- (optional) session feedback (one aspect you enjoyed, one aspect we need to improve)
+- Sticky notes system (red=request a helper come by, yellow=done with exercise)
+- Optional session feedback (one aspect you enjoyed, one aspect we need to improve)
 - 6 months feedback
 
 
 ## Practical issues
 
-- we follow The Carpentries Code of Conduct: https://docs.carpentries.org/topic_folders/policies/code-of-conduct.html
-- we want everybody to be comfortable, please point out problems
-- electricity
-- wireless
-- coffee breaks
-- lunch options (please list on white board or collect in a shared document or discuss map)
-- certificates available upon request to support@coderefinery.org
-- if you like what we do, reach out via https://twitter.com/coderefine and/or join us on https://coderefinery.zulipchat.com: you can listen in, follow certain threads, participate, and influence.
+- We follow The Carpentries Code of Conduct: https://docs.carpentries.org/topic_folders/policies/code-of-conduct.html
+- We want everybody to be comfortable, please point out problems
+- Electricity
+- Wireless
+- Coffee breaks
+- Lunch options (please list on white board or collect in a shared document or discuss map)
+- Certificates available upon request to support@coderefinery.org
+- If you like what we do, reach out via https://twitter.com/coderefine and/or
+  join us on https://coderefinery.zulipchat.com: you can listen in, follow
+  certain threads, participate, and influence.
