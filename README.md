@@ -18,7 +18,7 @@
 - GitLab for Nordic research software: https://source.coderefinery.org
 - Presentation of instructors and helpers
 - Presentation of participants
-- Distribute CodeRefinery stickers to attendees and encourage them to add it on their laptop
+- Distribute CodeRefinery stickers to attendees
 
 
 ## Program for the next 3 days
