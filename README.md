@@ -25,7 +25,8 @@
 
 - Emphasis on version control
 - Examples are on GitHub but OK to use another platform instead
-- Challenge: different programming languages
+- Challenge: different programming languages - when we need an explicit example,
+  we will default to Python
 - Quick look at the program: https://coderefinery.org/workshops/
 - We don't aim to just teach you what is in the program. One other goal is to
   leave you with a personal computer set up to do science independently.
@@ -34,8 +35,7 @@
 
 ## Interactive style
 
-- Software Carpentry style of teaching
-- Code-along
+- Software Carpentry style of teaching: code-along and many exercises, minimize slides
 - Sticky notes system (red=request a helper come by, yellow=done with exercise)
 - Optional session feedback (one aspect you enjoyed, one aspect we need to improve)
 - 6 months feedback
@@ -50,6 +50,10 @@
 - Coffee breaks
 - Lunch options (please list on white board or collect in a shared document or discuss map)
 - Certificates available upon request to support@coderefinery.org
+
+
+## Join and let others know
+
 - If you like what we do, reach out via https://twitter.com/coderefine and/or
   join us on https://coderefinery.zulipchat.com: you can listen in, follow
   certain threads, participate, and influence.
