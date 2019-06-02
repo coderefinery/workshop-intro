@@ -26,7 +26,7 @@
 - examples are on GitHub but OK to use another platform instead
 - challenge: different programming languages
 - quick look at the program: https://coderefinery.org/workshops/
-- We don't aim to just teach you what is in the program.  One other leave you with a personal computer set up to do science independently.
+- We don't aim to just teach you what is in the program. One other goal is to leave you with a personal computer set up to do science independently.
 - all material is online and CC-BY-SA
 
 
