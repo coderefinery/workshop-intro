@@ -34,6 +34,8 @@
 - Challenge: different programming languages - when we need an explicit example,
   we will default to Python
 - Quick look at the program: https://coderefinery.org/workshops/
+- Example project: https://github.com/numpy/numpy - this is where we want to get:
+  forking workflow, code review, automated testing, versioned documentation.
 - We don't aim to just teach you what is in the program. One other goal is to
   leave you with a personal computer set up to do science independently.
 - All material is online and CC-BY-SA
