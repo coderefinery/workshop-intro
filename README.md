@@ -38,7 +38,7 @@
   forking workflow, code review, automated testing, versioned documentation.
 - We don't aim to just teach you what is in the program. One other goal is to
   leave you with a personal computer set up to do science independently.
-- All material is online and CC-BY-SA
+- All material is online and CC-BY
 
 
 ## Interactive style
