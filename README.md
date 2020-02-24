@@ -53,7 +53,7 @@
 ## What do we expect you to get out of CodeRefinery?
 
 - We cover a *huge* amount of material.  We don't expect you to become
-  an expert it everything.
+  an expert in everything.
 - We do expect you to learn some *very* useful things *in a few
   areas*, and have a lot of inspiration for the future.
 
