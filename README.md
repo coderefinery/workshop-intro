@@ -111,11 +111,22 @@ Optional session feedback (one aspect you enjoyed, one aspect we need to improve
 
 - We follow The Carpentries Code of Conduct: https://docs.carpentries.org/topic_folders/policies/code-of-conduct.html
 - We want everybody to be comfortable, please point out problems
+- Certificates available upon request to support@coderefinery.org
+
+Checklist for in-person workshops:
+
 - Electricity
 - Wireless
 - Coffee breaks
 - Lunch options (please list on white board or collect in a shared document or discuss map)
-- Certificates available upon request to support@coderefinery.org
+
+Video workshops:
+
+- We understand that screen space is limited. If you have an external screen,
+  we recommend to use it but we cannot require it.
+- We know that video can be tiring and breaks are important.
+- No problem if you need to leave the screen but please signal it with the "clock" symbol.
+- Also for us the situation is new and we may experience hiccups. We are learning as well.
 
 
 ## Join and let others know
