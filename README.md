@@ -89,9 +89,22 @@ needs perfection.  However, most projects can get a bit better:
 ## Interactive style
 
 - Software Carpentry style of teaching: code-along and many exercises, minimize slides
-- Sticky notes system (red=request a helper come by, yellow=done with exercise)
-- Optional session feedback (one aspect you enjoyed, one aspect we need to improve)
-- 6 months feedback
+
+- **In-person workshops**: Sticky notes system (red=request a helper come by, yellow=done with exercise)
+- **Video workshops**: "no" means technical problem or got stuck, "yes" means done with exercise, "raise hand" means question.
+  We try these non-verbal signals out in an ice-breaker.
+
+
+## Feedback
+
+Optional session feedback (one aspect you enjoyed, one aspect we need to improve):
+
+- **In-person workshops**: On sticky notes
+- **Video workshops**: In the collaborative note (hackmd)
+
+6 months feedback:
+
+- 5-minute survey 3-6 months after the event
 
 
 ## Practical issues
