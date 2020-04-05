@@ -6,16 +6,14 @@
 
 - Come on in, please try to sit next to someone, because we do lots of
   group work.
-- **Any installation issues? Please talk to us.**
-- Check [git configuration instructions (https://bit.ly/2wnTNV6)](https://coderefinery.github.io/git-refresher/01-setup/#configuring-git)
-  link.
 - If you want, check the general [Git refresher (https://bit.ly/2VQExub)](https://coderefinery.github.io/git-refresher/).
 
-**Please test the following when arriving**:
+Please test the following when arriving:
 
 - Test that you have Git installed: `git --version`
 - Test that you have Python installed: `python --version`
 - Verify whether you can use both above commands in the same environment/terminal.
+- Check [Git configuration instructions](https://coderefinery.github.io/git-refresher/01-setup/#configuring-git).
 
 
 ## Welcome
