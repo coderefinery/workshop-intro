@@ -22,8 +22,21 @@ In-person workshops:
 - Few words about the project: https://coderefinery.org sponsored by https://neic.no and partners
 - GitLab for Nordic research software: https://source.coderefinery.org
 - Presentation of instructors and helpers
+
+In-person workshops:
+
 - Presentation of participants
 - Distribute CodeRefinery stickers to attendees
+
+Video workshops:
+
+- Announce that Zoom chat can be used for questions but that the content will
+  be deleted afterwards.
+- We will use a hackmd for questions/notes/links that we want to keep.
+- Ice-breaker: roll-call for participants to write their name in the hackmd,
+  contact info if they prefer to share that, one-line what they are working on,
+  and their experience with Git. Instructor writes the first line to show what we
+  expect here and also explains how hackpads work.
 
 
 ## Who is CodeRefinery for?
