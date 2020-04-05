@@ -53,7 +53,7 @@ Video workshops:
   expect here and also explains how hackpads work.
 
 
-## Program for the next 3 days
+## Program for the workshop
 
 - Emphasis on version control
 - Examples are on GitHub but OK to use another platform instead
