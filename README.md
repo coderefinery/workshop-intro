@@ -6,7 +6,6 @@
 
 - Come on in, please try to sit next to someone, because we do lots of
   group work.
-- If you want, check the general [Git refresher (https://bit.ly/2VQExub)](https://coderefinery.github.io/git-refresher/).
 
 Please test the following when arriving:
 
