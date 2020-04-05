@@ -17,10 +17,24 @@ In-person workshops:
   group work.
 
 
-## Welcome
+## Who is CodeRefinery for?
+
+- You've been a researcher for a while, you code all the time but
+  your main job isn't coding.  You've never quite learned best
+  practices.
+- You work on projects with many people, but can't really share your
+  code yet because you haven't learned the right tools yet.
+- You are a group leader, and would like your group to work together
+  to get more value out of your code
+
+The CodeRefinery project:
 
 - Few words about the project: https://coderefinery.org sponsored by https://neic.no and partners
 - GitLab for Nordic research software: https://source.coderefinery.org
+
+
+## Welcome
+
 - Presentation of instructors and helpers
 
 In-person workshops:
@@ -37,17 +51,6 @@ Video workshops:
   contact info if they prefer to share that, one-line what they are working on,
   and their experience with Git. Instructor writes the first line to show what we
   expect here and also explains how hackpads work.
-
-
-## Who is CodeRefinery for?
-
-- You've been a researcher for a while, you code all the time but
-  your main job isn't coding.  You've never quite learned best
-  practices.
-- You work on projects with many people, but can't really share your
-  code yet because you haven't learned the right tools yet.
-- You are a group leader, and would like your group to work together
-  to get more value out of your code
 
 
 ## Program for the next 3 days
