@@ -50,7 +50,6 @@ Video workshops:
 - We will neither record the session, nor archive the chat.
 - Ice-breaker: ask participants to use their real name on Zoom,
   roll-call for participants to write their name in the hackmd,
-  contact info if they like, one-line what they are working on,
   their experience with Git, and their operating system (we will use this information to form groups).
   Instructor writes the first line to show what we
   expect here and also explains how hackpads work.
