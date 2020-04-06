@@ -49,6 +49,7 @@ Video workshops:
 - Instructor gives a tour of Zoom
 - We will use a hackmd for questions/notes/links that we want to keep.
 - We will neither record the session, nor archive the chat.
+- Instructor gives a tour of hackmd which contains a list of participants' initials.
 - Ice-breaker: ask participants to use their real name on Zoom,
   roll-call for participants to write their name in the hackmd,
   their experience with Git, and their operating system (we will use this information to form groups).
