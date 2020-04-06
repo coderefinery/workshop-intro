@@ -4,27 +4,17 @@
 
 ## Arrival
 
-- Come on in, please try to sit next to someone, because we do lots of
-  group work.
-- **Any installation issues? Please talk to us.**
-- Check [git configuration instructions (https://bit.ly/2wnTNV6)](https://coderefinery.github.io/git-refresher/01-setup/#configuring-git)
-  link.
-- If you want, check the general [Git refresher (https://bit.ly/2VQExub)](https://coderefinery.github.io/git-refresher/).
-
-**Please test the following when arriving**:
+Please test the following when arriving:
 
 - Test that you have Git installed: `git --version`
 - Test that you have Python installed: `python --version`
 - Verify whether you can use both above commands in the same environment/terminal.
+- Check [Git configuration instructions](https://coderefinery.github.io/git-refresher/01-setup/#configuring-git).
 
+In-person workshops:
 
-## Welcome
-
-- Few words about the project: https://coderefinery.org sponsored by https://neic.no and partners
-- GitLab for Nordic research software: https://source.coderefinery.org
-- Presentation of instructors and helpers
-- Presentation of participants
-- Distribute CodeRefinery stickers to attendees
+- Come on in, please try to sit next to someone, because we do lots of
+  group work.
 
 
 ## Who is CodeRefinery for?
@@ -37,8 +27,35 @@
 - You are a group leader, and would like your group to work together
   to get more value out of your code
 
+The CodeRefinery project:
 
-## Program for the next 3 days
+- Few words about the project: https://coderefinery.org sponsored by https://neic.no and partners
+- GitLab for Nordic research software: https://source.coderefinery.org
+
+
+## Welcome
+
+- Presentation of instructors and helpers
+
+In-person workshops:
+
+- Presentation of participants
+- Distribute CodeRefinery stickers to attendees
+
+Video workshops:
+
+- Announce that Zoom chat can be used for questions but that the content will
+  be deleted afterwards.
+- We will use a hackmd for questions/notes/links that we want to keep.
+- Ice-breaker: ask participants to use their real name on Zoom,
+  roll-call for participants to write their name in the hackmd,
+  contact info if they like, one-line what they are working on,
+  their experience with Git, and their operating system (we will use this information to form groups).
+  Instructor writes the first line to show what we
+  expect here and also explains how hackpads work.
+
+
+## Program for the workshop
 
 - Emphasis on version control
 - Examples are on GitHub but OK to use another platform instead
@@ -74,20 +91,46 @@ needs perfection.  However, most projects can get a bit better:
 ## Interactive style
 
 - Software Carpentry style of teaching: code-along and many exercises, minimize slides
-- Sticky notes system (red=request a helper come by, yellow=done with exercise)
-- Optional session feedback (one aspect you enjoyed, one aspect we need to improve)
-- 6 months feedback
+
+- **In-person workshops**: Sticky notes system (red=request a helper come by, yellow=done with exercise)
+- **Video workshops**: "no" means technical problem or got stuck, "yes" means done with exercise, "raise hand" means question.
+  We try these non-verbal signals out in an ice-breaker.
+
+
+## Feedback
+
+Optional session feedback (one aspect you enjoyed, one aspect we need to improve):
+
+- **In-person workshops**: On sticky notes
+- **Video workshops**: In the collaborative note (hackmd)
+
+6 months feedback:
+
+- 5-minute survey 3-6 months after the event
 
 
 ## Practical issues
 
 - We follow The Carpentries Code of Conduct: https://docs.carpentries.org/topic_folders/policies/code-of-conduct.html
 - We want everybody to be comfortable, please point out problems
+- Certificates available upon request to support@coderefinery.org
+
+Checklist for in-person workshops:
+
 - Electricity
 - Wireless
 - Coffee breaks
 - Lunch options (please list on white board or collect in a shared document or discuss map)
-- Certificates available upon request to support@coderefinery.org
+
+Video workshops:
+
+- We understand that screen space is limited. If you have an external screen,
+  we recommend to use it but we cannot require it. Although all the material is
+  [online](https://coderefinery.org/lessons/), we will
+  try to not require you to have all the windows open at once.
+- We know that video can be tiring and we will take breaks.
+- No problem if you need to leave the screen but please signal it with the "clock" symbol.
+- Also for us the situation is new and we may experience hiccups. We are learning as well.
 
 
 ## Join and let others know
