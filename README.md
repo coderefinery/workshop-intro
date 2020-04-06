@@ -7,19 +7,19 @@
 Please test the following when arriving:
 
 - Test that you have Git installed: `git --version`
-- Test that you have Python installed: `python --version`
-- Verify whether you can use both above commands in the same environment/terminal.
 - Check [Git configuration instructions](https://coderefinery.github.io/git-refresher/01-setup/#configuring-git).
 
 In-person workshops:
 
+- Test that you have Python installed: `python --version`
+- Verify whether you can use both Git and Python in the same environment/terminal.
 - Come on in, please try to sit next to someone, because we do lots of
   group work.
 
 
 ## Who is CodeRefinery for?
 
-- You've been a researcher for a while, you code all the time but
+- You've been a researcher for a while, you code often but
   your main job isn't coding.  You've never quite learned best
   practices.
 - You work on projects with many people, but can't really share your
@@ -46,10 +46,12 @@ Video workshops:
 
 - Announce that Zoom chat can be used for questions but that the content will
   be deleted afterwards.
+- Instructor gives a tour of Zoom
 - We will use a hackmd for questions/notes/links that we want to keep.
+- We will neither record the session, nor archive the chat.
+- Instructor gives a tour of hackmd which contains a list of participants' initials.
 - Ice-breaker: ask participants to use their real name on Zoom,
   roll-call for participants to write their name in the hackmd,
-  contact info if they like, one-line what they are working on,
   their experience with Git, and their operating system (we will use this information to form groups).
   Instructor writes the first line to show what we
   expect here and also explains how hackpads work.
@@ -61,7 +63,6 @@ Video workshops:
 - Examples are on GitHub but OK to use another platform instead
 - Challenge: different programming languages - when we need an explicit example,
   we will default to Python
-- Quick look at the program: https://coderefinery.org/workshops/
 - We don't aim to just teach you what is in the program. One other goal is to
   leave you with a personal computer set up to do science independently.
 - All material is online and CC-BY
