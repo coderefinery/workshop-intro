@@ -46,6 +46,7 @@ Video workshops:
 
 - Announce that Zoom chat can be used for questions but that the content will
   be deleted afterwards.
+- Instructor gives a tour of Zoom
 - We will use a hackmd for questions/notes/links that we want to keep.
 - We will neither record the session, nor archive the chat.
 - Ice-breaker: ask participants to use their real name on Zoom,
