@@ -19,7 +19,7 @@ In-person workshops:
 
 ## Who is CodeRefinery for?
 
-- You've been a researcher for a while, you code all the time but
+- You've been a researcher for a while, you code often but
   your main job isn't coding.  You've never quite learned best
   practices.
 - You work on projects with many people, but can't really share your
