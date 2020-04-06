@@ -7,12 +7,12 @@
 Please test the following when arriving:
 
 - Test that you have Git installed: `git --version`
-- Test that you have Python installed: `python --version`
-- Verify whether you can use both above commands in the same environment/terminal.
 - Check [Git configuration instructions](https://coderefinery.github.io/git-refresher/01-setup/#configuring-git).
 
 In-person workshops:
 
+- Test that you have Python installed: `python --version`
+- Verify whether you can use both Git and Python in the same environment/terminal.
 - Come on in, please try to sit next to someone, because we do lots of
   group work.
 
