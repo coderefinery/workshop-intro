@@ -50,6 +50,6 @@ Please test the following when arriving:
 ## Join and let others know
 
 - All material is online and CC-BY
-- If you like what we do, reach out via https://twitter.com/coderefine and/or
+- If you like what we do, sign up for the [CodeRefinery newsletter](https://coderefinery.org/), reach out via https://twitter.com/coderefine and/or
   join us on https://coderefinery.zulipchat.com: you can listen in, follow
   certain threads, participate, and influence.
