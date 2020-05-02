@@ -53,3 +53,5 @@ Please test the following when arriving:
 - If you like what we do, sign up for the [CodeRefinery newsletter](https://coderefinery.org/), reach out via https://twitter.com/coderefine and/or
   join us on https://coderefinery.zulipchat.com: you can listen in, follow
   certain threads, participate, and influence.
+- Get notified, or have your friends and colleagues, [be notified of other
+  workshops](https://coderefinery.org/workshops/upcoming/#notify-me)
