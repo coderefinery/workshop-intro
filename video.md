@@ -12,7 +12,8 @@ Please test the following when arriving:
 
 ## Welcome
 
-- Instructor gives a tour of Zoom
+- Software Carpentry style of teaching: code-along and many exercises, minimize slides
+- Instructor gives a [tour of Zoom](https://github.com/coderefinery/manuals/blob/master/zoom-mechanics.md)
 - Announce that Zoom chat can be used for questions but that the content will
   be deleted afterwards.
 - We will use a hackmd for questions/notes/links that we want to keep.
@@ -26,13 +27,6 @@ Please test the following when arriving:
   expect here and also explains how hackpads work.
 
 
-## Interactive style
-
-- Software Carpentry style of teaching: code-along and many exercises, minimize slides
-- Signals: "no" means technical problem or got stuck, "yes" means done with exercise, "raise hand" means question.
-  We try these non-verbal signals out in an ice-breaker.
-
-
 ## Practical issues
 
 - We follow The Carpentries Code of Conduct: https://docs.carpentries.org/topic_folders/policies/code-of-conduct.html
@@ -43,7 +37,6 @@ Please test the following when arriving:
   [online](https://coderefinery.org/lessons/), we will
   try to not require you to have all the windows open at once.
 - We know that video can be tiring and we will take breaks.
-- No problem if you need to leave the screen but please signal it with the "clock" symbol.
 - Also for us the situation is new and we may experience hiccups. We are learning as well.
 
 
