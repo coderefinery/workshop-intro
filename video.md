@@ -12,19 +12,19 @@ Please test the following when arriving:
 
 ## Welcome
 
-- Software Carpentry style of teaching: code-along and many exercises, minimize slides
+- Software Carpentry style of teaching: code-along and many exercises, minimize slides.
 - Instructor gives a [tour of Zoom](https://github.com/coderefinery/manuals/blob/master/zoom-mechanics.md)
 - Announce that Zoom chat can be used for questions but that the content will
   be deleted afterwards.
-- We will use a hackmd for questions/notes/links that we want to keep.
+- We will use a HackMD for questions/notes/links that we want to keep.
 - We will neither record the session, nor archive the chat.
-- Presentation of instructors and helpers
-- Instructor gives a tour of hackmd which contains a list of participants' initials.
+- Presentation of instructors and helpers.
+- Instructor gives a tour of HackMD which contains a list of participants' initials.
 - Ice-breaker: ask participants to use their real name on Zoom,
-  roll-call for participants to write their name in the hackmd,
+  roll-call for participants to write their name in the HackMD,
   their experience with Git, and their operating system (we will use this information to form groups).
   Instructor writes the first line to show what we
-  expect here and also explains how hackpads work.
+  expect here and also explains how HackMD works.
 
 
 ## Practical issues
