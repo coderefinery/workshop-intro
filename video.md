@@ -5,17 +5,16 @@
 
 ## Welcome
 
+- Presentation of instructors and helpers.
 - Software Carpentry style of teaching: code-along and many exercises, minimize slides.
 - Instructor gives a [tour of Zoom](https://github.com/coderefinery/manuals/blob/master/zoom-mechanics.md)
 - Announce that Zoom chat can be used for questions but that the content will
   be deleted afterwards.
-- We will use a HackMD for questions/notes/links that we want to keep.
 - We clarify to participants whether and how we record and archive and inform participants
   how they can participate while maintaining privacy for them and others.
-- Presentation of instructors and helpers.
+- We will use a HackMD for questions/notes/links that we want to keep.
 - Instructor gives a tour of HackMD which contains a list of participants' initials.
-- Ice-breaker: ask participants to use their real name on Zoom,
-  roll-call for participants to write their name in the HackMD,
+- Ice-breaker: roll-call for participants to write their name in the HackMD,
   their experience with Git, and their operating system (we will use this information to form groups).
   Instructor writes the first line to show what we
   expect here and also explains how HackMD works.
