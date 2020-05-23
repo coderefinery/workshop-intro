@@ -29,9 +29,9 @@ Please test the following when arriving:
 
 ## Practical issues
 
-- We follow The Carpentries Code of Conduct: https://docs.carpentries.org/topic_folders/policies/code-of-conduct.html
-- We want everybody to be comfortable, please point out problems
-- Certificates available upon request to support@coderefinery.org
+- We follow [The Carpentries Code of Conduct](https://docs.carpentries.org/topic_folders/policies/code-of-conduct.html).
+- We want everybody to be comfortable. Please point out problems.
+- Certificates available upon request to support@coderefinery.org.
 - We understand that screen space is limited. If you have an external screen,
   we recommend to use it but we cannot require it. Although all the material is
   [online](https://coderefinery.org/lessons/), we will
@@ -42,9 +42,10 @@ Please test the following when arriving:
 
 ## Join and let others know
 
-- All material is online and CC-BY
-- If you like what we do, sign up for the [CodeRefinery newsletter](https://coderefinery.org/), reach out via https://twitter.com/coderefine and/or
+- All material is online and CC-BY.
+- If you like what we do, sign up for the [CodeRefinery newsletter](https://coderefinery.org/),
+  reach out via https://twitter.com/coderefine and/or
   join us on https://coderefinery.zulipchat.com: you can listen in, follow
   certain threads, participate, and influence.
-- Get notified, or have your friends and colleagues, [be notified of other
-  workshops](https://coderefinery.org/workshops/upcoming/#notify-me)
+- Get notified, or have your friends and colleagues,
+  [be notified of other workshops](https://coderefinery.org/workshops/upcoming/#notify-me).
