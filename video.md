@@ -10,7 +10,8 @@
 - Announce that Zoom chat can be used for questions but that the content will
   be deleted afterwards.
 - We will use a HackMD for questions/notes/links that we want to keep.
-- We will neither record the session, nor archive the chat.
+- We clarify to participants whether and how we record and archive and inform participants
+  how they can participate while maintaining privacy for them and others.
 - Presentation of instructors and helpers.
 - Instructor gives a tour of HackMD which contains a list of participants' initials.
 - Ice-breaker: ask participants to use their real name on Zoom,
