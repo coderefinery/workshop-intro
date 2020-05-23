@@ -24,13 +24,13 @@
 
 - We follow [The Carpentries Code of Conduct](https://docs.carpentries.org/topic_folders/policies/code-of-conduct.html).
 - We want everybody to be comfortable. Please point out problems.
-- Certificates available upon request to support@coderefinery.org.
 - We understand that screen space is limited. If you have an external screen,
   we recommend to use it but we cannot require it. Although all the material is
   [online](https://coderefinery.org/lessons/), we will
   try to not require you to have all the windows open at once.
 - We know that video can be tiring and we will take breaks.
 - Also for us the situation is new and we may experience hiccups. We are learning as well.
+- Certificates available upon request to support@coderefinery.org.
 
 
 ## Join and let others know
