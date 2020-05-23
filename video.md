@@ -2,13 +2,6 @@
 
 # CodeRefinery: welcome and practical information for workshops
 
-## Arrival
-
-Please test the following when arriving:
-
-- Test that you have Git installed: `git --version`
-- Check [Git configuration instructions](https://coderefinery.github.io/git-refresher/01-setup/#configuring-git).
-
 
 ## Welcome
 
