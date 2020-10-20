@@ -39,7 +39,6 @@ This workshop may be recorded and streamed.  More about that later: your *video*
 - Examples are on GitHub but OK to use another platform instead
 - Challenge: different programming languages - when we need an explicit example, we will **default to Python but it's not about Python**.
 - We don't aim to just teach you what is in the program. One other goal is to leave you with a personal computer set up to do science independently.
-- All material is online and CC-BY
 
 
 ### About CodeRefinery
@@ -59,6 +58,7 @@ This workshop may be recorded and streamed.  More about that later: your *video*
 - We cover a huge amount of material. We don't expect you to become an expert in everything.
 - **Material contains more than we will discuss**.
 - We do expect you to learn some very useful things in a few areas, and have a lot of **inspiration for the future**.
+- All material is online and CC-BY.
 
 
 #### Where to find the material
