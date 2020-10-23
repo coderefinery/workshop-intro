@@ -119,7 +119,7 @@ This workshop may be recorded and streamed.  More about that later: your *video*
 
 - We stream (twitch.tv) and record the workshop.
 - Your video should never appear in either (but, **leave your video off** in the main room anyway)
-- Your voice in may room may be recorded and posted to YouTube
+- Your voice in the main room may be recorded and posted to YouTube
 - **Breakout rooms are completely private**
 - HackMD is posted on the course page, without names.
 - All outputs are CC-BY
