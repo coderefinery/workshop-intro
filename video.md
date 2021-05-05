@@ -96,7 +96,7 @@ This workshop may be recorded and streamed.  More about that later: your *video*
 
 ## Code of Conduct
 
-- We follow [The Carpentries Code of Conduct](https://docs.carpentries.org/topic_folders/policies/code-of-conduct.html).
+- Our [Code of Conduct](https://coderefinery.org/about/code-of-conduct/) is adapted from [The Carpentries Code of Conduct](https://docs.carpentries.org/topic_folders/policies/code-of-conduct.html).
 - This is a hands-on, interactive workshop.
     - Be kind to each other and help each other as best you can.
     - If you can't help someone or there is some problem, let someone know.
