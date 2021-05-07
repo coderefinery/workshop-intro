@@ -90,7 +90,6 @@ You can watch various ways:
 - Use HackMD for chat: questions in bullet points:
   ![View and edit modes at top](https://coderefinery.github.io/manuals/_images/hackmd--questions2.png)
 
-
 - You can switch between view and edit modes:
   ![View and edit modes at top](https://coderefinery.github.io/manuals/_images/hackmd--controls.png)
 
@@ -127,8 +126,8 @@ Arranging your screen is surprisingly difficult!
 
 ### Code of Conduct
 
-- We follow a [Code of
-  Conduct](https://coderefinery.org/about/code-of-conduct/).
+- We follow our [Code of Conduct](https://coderefinery.org/about/code-of-conduct/)
+  which is adapted from [The Carpentries Code of Conduct](https://docs.carpentries.org/topic_folders/policies/code-of-conduct.html).
 
 
 ### Privacy
