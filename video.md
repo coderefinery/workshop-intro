@@ -32,7 +32,7 @@ The point is that everyone has the base skills in order to
 ### What is CodeRefinery
 
 - Nordic project to teach basic scientific computing tools
-- Funded by funded by https://neic.no
+- Funded by https://neic.no
 - Run this workshop, and others like it
 - Gitlab at https://source.coderefinery.org
 
