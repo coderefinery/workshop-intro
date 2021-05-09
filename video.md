@@ -121,14 +121,37 @@ Arranging your screen is surprisingly difficult!
 
 
 
-## Final notes
+## Care for the community
+
+### Be respectful and helpful
+
+It is actually hard to teach and mentor for tech like this.  We need
+everyone to take part in this process.
+
+We leave you with four pieces of advice for now:
+
+- Everyone here is at different levels, and that's OK.  Everyone will
+  be learning different things, and everyone will focus on different
+  topics.
+- *Everyone* here is both a teacher and a learner.  Be careful with
+  your help, considering the above.
+- Take time to ask "How's it going? Are we on the right track for
+  everyone?", for example, in breakout rooms.
+- When something isn't going right, *speak (or HackMD) up quickly*.
+  We want to help, even if the answer is "let's discuss later".
+
 
 
 ### Code of Conduct
 
-- We follow our [Code of Conduct](https://coderefinery.org/about/code-of-conduct/)
-  which is adapted from [The Carpentries Code of Conduct](https://docs.carpentries.org/topic_folders/policies/code-of-conduct.html).
+In the worst case, there may be problem with someone.  In that case,
+we follow our [Code of
+Conduct](https://coderefinery.org/about/code-of-conduct/).  We expect
+that the above points prevent things from getting to here.
 
+
+
+## Final notes
 
 ### Privacy
 
@@ -148,4 +171,6 @@ Arranging your screen is surprisingly difficult!
 
 ### Join us!
 
-- CodeRefinery is an open project, join us.  https://coderefinery.org
+- CodeRefinery is an open project, join us.
+  - https://coderefinery.org
+  - [Chat](https://coderefinery.github.io/manuals/chat/)
