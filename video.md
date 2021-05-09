@@ -20,7 +20,7 @@ Welcome!
 ## About the workshop
 
 There is **science** and there is **computing**.  The computing often
-holds back the science, and isn't taught.
+holds back the science, and isn't always taught.
 
 The point is that everyone has the base skills in order to
 
@@ -46,6 +46,8 @@ The point is that everyone has the base skills in order to
 
 There is a **lot** of material, and everyone will take a slightly
 different path.  This is OK!
+
+We have hundreds of people watching this.
 
 You can watch various ways:
 
@@ -90,7 +92,9 @@ You can watch various ways:
 - Use HackMD for chat: questions in bullet points:
   ![View and edit modes at top](https://coderefinery.github.io/manuals/_images/hackmd--questions2.png)
 
-- You can switch between view and edit modes:
+- From here you can also find important links and reference.
+
+- You can switch between view and edit modes (Please leave in view mode if you aren't actively using it):
   ![View and edit modes at top](https://coderefinery.github.io/manuals/_images/hackmd--controls.png)
 
 - Someone watches these and will answer or raise relevant questions by
@@ -106,7 +110,19 @@ You can watch various ways:
 
 - Rename yourself to include your "Breakout room number", e.g. "(13)
   Richard Darst".
-- Helpers are "(13,H) Richard Darst"
+  - Helpers are "(13,H) Richard Darst"
+
+  ![Screenshot of Zoom names as described above](https://coderefinery.github.io/manuals/_images/zoom--learner-names.png)
+
+- You rename yourself from the participants list:
+
+  <img src="https://coderefinery.github.io/manuals/_images/zoom--participants.png" width="48%" align="top">
+  <img src="https://coderefinery.github.io/manuals/_images/zoom--rename.png" width="48%" align="top">
+
+- Zoom "Dual monitor mode" may be useful (it makes a separate window
+  for the screen share, you can hide pictures if you want)
+
+  ![Screenshot of Zoom names as described above](https://coderefinery.github.io/manuals/_images/zoom--settings-monitors-fullscreen.png)
 
 
 
@@ -118,6 +134,9 @@ Arranging your screen is surprisingly difficult!
   half is for demos.
 - Zoom "Dual monitor mode" (in the settings) gives you two *windows*
   which might be useful.
+
+![Screen layout with screenshare on one side and learner on other side](https://coderefinery.github.io/manuals/_images/layout--learner-top.png)
+
 
 
 
