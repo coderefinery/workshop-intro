@@ -182,6 +182,9 @@ that the above points prevent things from getting to here.
 - We stream (twitch.tv) and record the workshop.
 - **Leave your video off** in the main room (but we should not capture
   it anyway)
+  - We may mute you/turn off your video for you
+  - Then you can't turn it on yourself, write **breakout room number**
+    in HackMD and someone will come help.
 - Your voice in the main room may be recorded and posted to YouTube
 - **Breakout rooms are completely private**
 - HackMD content will be posted on the course page, without names.
