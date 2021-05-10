@@ -139,7 +139,6 @@ Arranging your screen is surprisingly difficult!
 
 
 
-
 ## Care for the community
 
 ### Be respectful and helpful
@@ -149,16 +148,22 @@ everyone to take part in this process.
 
 We leave you with four pieces of advice for now:
 
-- Everyone here is at different levels, and that's OK.  Everyone will
-  be learning different things, and everyone will focus on different
-  topics.
-- *Everyone* here is both a teacher and a learner.  Be careful with
-  your help, considering the above.
-- Take time to ask "How's it going? Are we on the right track for
-  everyone?", for example, in breakout rooms.
-- When something isn't going right, *speak (or HackMD) up quickly*.
+- **Everyone here is at different levels, and that's expected.**
+  Everyone will be learning different things, and everyone will focus
+  on different topics.  Passive learning is OK.
+- ***Everyone* here is both a teacher and a learner.**  Be careful
+  that your help is at the right level, considering the above.
+- **Take time to check in.** For example, ask "how's it going? is
+  everyone getting what they need?", in breakout rooms.
+- **When something isn't going right, *speak (or HackMD) up quickly***.
   We want to help, even if the answer is "let's discuss later".
 
+
+### Instructors and helpers aren't perfect
+
+- No one knows everything.
+- Seeing things go wrong and get fixed is part of the pedagogy.
+- Please be nice to those who make this course possible.
 
 
 ### Code of Conduct
