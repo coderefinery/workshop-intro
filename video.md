@@ -19,14 +19,18 @@ Welcome!
 
 ## About the workshop
 
-There is **science** and there is **computing**.  The computing often
-holds back the science, and isn't always taught.
+These days, computation is everywhere.  Many people learn programming,
+but it's much harder to learn how all of the things fit together in
+practice.
 
-The point is that everyone has the base skills in order to
+This means that computing often holds back the science, and not
+everyone has an equal opportunity.
+
+The point is that everyone has to have base skills in order to:
 
 - Do their science without barriers
 - Produce higher quality, reproducible research
-- Work together better
+- Collaborate
 
 
 ### What is CodeRefinery
@@ -37,7 +41,37 @@ The point is that everyone has the base skills in order to
 - Gitlab at https://source.coderefinery.org
 
 
+### Who are we?
+
+- Course coordinators
+- Instructors
+- Expert helpers
+- Exercise leaders
+
+Introductions?  Maybe at the end if we have time.
+
+
+### Not everything will be perfect
+
+- We have more material than we can cover: we adjust to the audience.
+
+
+
+## Practicalities
+
+
 ### How the workshop works
+
+When some people teach online, they can reach ~20 people at once.  We
+can reach hundreds.
+
+You can watch various ways:
+
+- Watch in Zoom
+- Watch via livestream
+- Watch recordings later
+
+There are many parts of the workshop:
 
 - Demos and talking (main room)
 - Type-along (main room)
@@ -47,42 +81,6 @@ The point is that everyone has the base skills in order to
 There is a **lot** of material, and everyone will take a slightly
 different path.  This is OK!
 
-We have hundreds of people watching this.
-
-You can watch various ways:
-
-- Watch in Zoom
-- Watch via livestream
-- Watch recordings later
-
-
-### Who are we?
-
-- Course coordinators
-- Instructors
-- Expert helpers
-- Exercise leaders
-
-
-
-### Not everything will be perfect
-
-- We have more material than we can cover: we adjust to the audience.
-- Instructors learn as much as you.
-- Exercise leaders (breakout rooms) are also learning.
-- **If something goes wrong, let someone know.  We will do
-  something.** Example: audio, font size, speed, breakout room
-  issues.
-
-
-
-## Practicalities
-
-### Online, interactive workshop.
-
-- Lectures and type-along
-- Breakout rooms
-- Teams that stay the same
 
 ### Chat and communication
 
@@ -124,6 +122,17 @@ You can watch various ways:
 
   ![Screenshot of Zoom names as described above](https://coderefinery.github.io/manuals/_images/zoom--settings-monitors-fullscreen.png)
 
+
+### Where do you focus?
+
+There is so much information!  What should we look?
+
+- **Screenshare and lecture**
+- **Your own type-along**
+- **HackMD (all important links should be pasted here)**
+  - Only look at the bottom.
+  - Come back and read detailed answers later, not during.
+- Lesson webpage (as needed, direct links in HackMD)
 
 
 ### Screen arrangement
@@ -181,11 +190,11 @@ that the above points prevent things from getting to here.
 
 - We stream (twitch.tv) and record the workshop.
 - **Leave your video off** in the main room (but we should not capture
-  it anyway)
-- Your voice in the main room may be recorded and posted to YouTube
+  it anyway).
+- Your voice in the main room may be recorded and posted to YouTube.
 - **Breakout rooms are completely private**
 - HackMD content will be posted on the course page, without names.
-- All outputs are CC-BY
+- All outputs are CC-BY.
 
 
 ### Certificates
@@ -198,3 +207,6 @@ that the above points prevent things from getting to here.
 - CodeRefinery is an open project, join us.
   - https://coderefinery.org
   - [Chat](https://coderefinery.github.io/manuals/chat/)
+
+We need volunteers to make this a success in the future.  We are also
+happy to have institutional partners.
