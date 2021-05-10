@@ -94,8 +94,12 @@ You can watch various ways:
 
 - From here you can also find important links and reference.
 
-- You can switch between view and edit modes (Please leave in view mode if you aren't actively using it):
+- You can switch between view and edit modes:
   ![View and edit modes at top](https://coderefinery.github.io/manuals/_images/hackmd--controls.png)
+
+  - You have to switch to edit mode once to get live updates (then you
+    can go back to view)
+  - Please leave in view mode if you aren't actively using it
 
 - Someone watches these and will answer or raise relevant questions by
   voice.
