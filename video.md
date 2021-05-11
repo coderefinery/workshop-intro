@@ -92,8 +92,12 @@ different path.  This is OK!
 
 - From here you can also find important links and reference.
 
-- You can switch between view and edit modes (Please leave in view mode if you aren't actively using it):
+- You can switch between view and edit modes:
   ![View and edit modes at top](https://coderefinery.github.io/manuals/_images/hackmd--controls.png)
+
+  - You have to switch to edit mode once to get live updates (then you
+    can go back to view)
+  - Please leave in view mode if you aren't actively using it
 
 - Someone watches these and will answer or raise relevant questions by
   voice.
@@ -190,8 +194,11 @@ that the above points prevent things from getting to here.
 
 - We stream (twitch.tv) and record the workshop.
 - **Leave your video off** in the main room (but we should not capture
-  it anyway).
-- Your voice in the main room may be recorded and posted to YouTube.
+  it anyway)
+  - We may mute you/turn off your video for you
+  - Then you can't turn it on yourself, write **breakout room number**
+    in HackMD and someone will come help.
+- Your voice in the main room may be recorded and posted to YouTube
 - **Breakout rooms are completely private**
 - HackMD content will be posted on the course page, without names.
 - All outputs are CC-BY.
