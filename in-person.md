@@ -86,7 +86,7 @@ Optional session feedback (one aspect you enjoyed, one aspect we need to improve
 
 ## Practical issues
 
-- We follow The Carpentries Code of Conduct: https://docs.carpentries.org/topic_folders/policies/code-of-conduct.html
+- We follow as Code of Conduct: https://coderefinery.org/about/code-of-conduct/
 - We want everybody to be comfortable, please point out problems
 - Certificates available upon request to support@coderefinery.org
 
