@@ -9,14 +9,6 @@
 Welcome!
 
 
-## Privacy note
-
-* **This workshop may be recorded and streamed.**
-* Your *video* won't appear, but your *voice* may.
-* Chat and HackMD lets you communicate anonymously.
-
-
-
 ## About the workshop
 
 These days, computation is everywhere.  Many people learn programming,
@@ -40,6 +32,10 @@ The point is that everyone has to have base skills in order to:
 - Run this workshop, and others like it
 - Gitlab at https://source.coderefinery.org
 
+CodeRefinery is a partnership of ENCCS (SE), CSC (FI), DeiC (DK),
+UNINETT Sigma2 (NO), SNIC (SE), Type 1 Consortium for Interactive HPC
+(DK), and USIT, UiO (NO).
+
 
 ### Who are we?
 
@@ -48,7 +44,7 @@ The point is that everyone has to have base skills in order to:
 - Expert helpers
 - Exercise leaders
 
-Introductions?  Maybe at the end if we have time.
+Introductions?  ... we probably won't have time.
 
 
 ### Not everything will be perfect
@@ -67,11 +63,11 @@ can reach hundreds.
 
 You can watch various ways:
 
-- Watch in Zoom
-- Watch via livestream
-- Watch recordings later
+- Livestream - anyone!
+- Livestream, separate Zoom for exercises and discussion
+- Livestream, some in-person meetups for exercises and discussion
 
-There are many parts of the workshop:
+There are many parts of the workshop (*this will all make sense soon*):
 
 - Demos and talking (main room)
 - Type-along (main room)
@@ -83,9 +79,6 @@ different path.  This is OK!
 
 
 ### Chat and communication
-
-- Please don't use the Zoom chat for questions: who can keep track?
-  - But you can for practical questions
 
 - Use HackMD for chat: questions in bullet points:
   ![View and edit modes at top](https://coderefinery.github.io/manuals/_images/hackmd--questions2.png)
@@ -106,32 +99,54 @@ different path.  This is OK!
 
 - **Don't include names or identifies in HackMD: it is public.**
 
+- Please don't use the Zoom chat for questions: who can keep track?
+  - But you can for practical questions, if you are in Zoom.
+
 **Icebreaker: Please answer the icebreaker question in HackMD**
 
-### Zoom
+### If you are only in the livestream
 
-- Rename yourself to include your "Breakout room number", e.g. "(13)
-  Richard Darst".
-  - Helpers are "(13,H) Richard Darst"
+- Watch and exercises yourself as you would like!
 
-  ![Screenshot of Zoom names as described above](https://coderefinery.github.io/manuals/_images/zoom--learner-names.png)
+### If you are in an in-person room
 
-- You rename yourself from the participants list:
+- Watch the stream together, during exercises, work together.
 
-  <img src="https://coderefinery.github.io/manuals/_images/zoom--participants.png" width="48%" align="top">
-  <img src="https://coderefinery.github.io/manuals/_images/zoom--rename.png" width="48%" align="top">
+
+### If you are in Zoom for exercises
+
+- You switch between the livestream and Zoom.  **We make it clear.**
+
+- Who to ask for help: Zoom host or HackMD
+
+- You can join Zoom breakout rooms yourself, you should have
+  instructions on that.
 
 - Zoom "Dual monitor mode" may be useful (it makes a separate window
   for the screen share, you can hide pictures if you want)
 
   ![Screenshot of Zoom names as described above](https://coderefinery.github.io/manuals/_images/zoom--settings-monitors-fullscreen.png)
 
+- If you need help moving to a breakout room:
+
+  - Rename yourself to include your "Breakout room number", e.g. "(13)
+    Richard Darst".
+    - Helpers are "(13,H) Richard Darst"
+
+    ![Screenshot of Zoom names as described above](https://coderefinery.github.io/manuals/_images/zoom--learner-names.png)
+
+  - You rename yourself from the participants list:
+
+    <img src="https://coderefinery.github.io/manuals/_images/zoom--participants.png" width="48%" align="top">
+    <img src="https://coderefinery.github.io/manuals/_images/zoom--rename.png" width="48%" align="top">
+
+
 
 ### Where do you focus?
 
 There is so much information!  What should we look?
 
-- **Screenshare and lecture**
+- **Livestream**
 - **Your own type-along**
 - **HackMD (all important links should be pasted here)**
   - Only look at the bottom.
@@ -141,14 +156,12 @@ There is so much information!  What should we look?
 
 ### Screen arrangement
 
-Arranging your screen is surprisingly difficult!
+It really helps to arrange your screen well
 
 - We share a vertical window, so half of the screen is for us, and
   half is for demos.
-- Zoom "Dual monitor mode" (in the settings) gives you two *windows*
-  which might be useful.
 
-![Screen layout with screenshare on one side and learner on other side](https://coderefinery.github.io/manuals/_images/layout--learner-top.png)
+![Screen layout with screenshare on one side and learner on other side](https://coderefinery.org/manuals/_images/layout--learner-livestream-sidebyside-onebrowser.png)
 
 
 
@@ -197,22 +210,33 @@ that the above points prevent things from getting to here.
 
 ## Final notes
 
+### Join us!
+
+- CodeRefinery is an open project, join us.
+  - Website: https://coderefinery.org → Get Involved
+  - Chat: https://coderefinery.github.io/manuals/chat/
+  - CodeRefinery manuals: https://coderefinery.github.io/manuals/
+
+We need volunteers to make this a success in the future.  We are also
+happy to have institutional partners.
+
+
+### Help out with this workshop
+
+- e.g. video editing, YouTube captioning, etc.
+
+
 ### Privacy
 
-- We stream (twitch.tv) and record the workshop.
-- **Leave your video off** in the main room (but we should not capture
-  it anyway)
-  - We may mute you/turn off your video for you
-  - Then you can't turn it on yourself, write **breakout room number**
-    in HackMD and someone will come help.
-- Your voice in the main room may be recorded and posted to YouTube
-- **Breakout rooms are completely private**
+- There is no way for your audio and video to end up broadcasted or
+  recorded.
+- **Don't put names in HackMD at any time**
 - HackMD content will be posted on the course page, without names.
 - All outputs are CC-BY.
 
 
 ### Certificates
 
-- Certificates available upon request to support@coderefinery.org.
+- The webpage lists ways to request certificates from certain partners.
 
 
