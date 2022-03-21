@@ -167,6 +167,14 @@ It really helps to arrange your screen well
 -->
 
 
+### Please register if you haven't yet
+
+- It helps us with our reporting and ensures funding
+- You are registered if you got emails directly from us
+- Link in HackMD
+
+
+
 ## Care for the community
 
 ### This is a live production, not curated
