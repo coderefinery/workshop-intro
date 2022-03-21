@@ -104,44 +104,6 @@ different path.  This is OK!
 
 **Icebreaker: Please answer the icebreaker question in HackMD**
 
-### If you are only in the livestream
-
-- Watch and exercises yourself as you would like!
-
-### If you are in an in-person room
-
-- Watch the stream together, during exercises, work together.
-
-
-### If you are in Zoom for exercises
-
-- You switch between the livestream and Zoom.  **We make it clear.**
-
-- Who to ask for help: Zoom host or HackMD
-
-- You can join Zoom breakout rooms yourself, you should have
-  instructions on that.
-
-- Zoom "Dual monitor mode" may be useful (it makes a separate window
-  for the screen share, you can hide pictures if you want)
-
-  ![Screenshot of Zoom names as described above](https://coderefinery.github.io/manuals/_images/zoom--settings-monitors-fullscreen.png)
-
-- If you need help moving to a breakout room:
-
-  - Rename yourself to include your "Breakout room number", e.g. "(13)
-    Richard Darst".
-    - Helpers are "(13,H) Richard Darst"
-
-    ![Screenshot of Zoom names as described above](https://coderefinery.github.io/manuals/_images/zoom--learner-names.png)
-
-  - You rename yourself from the participants list:
-
-    <img src="https://coderefinery.github.io/manuals/_images/zoom--participants.png" width="48%" align="top">
-    <img src="https://coderefinery.github.io/manuals/_images/zoom--rename.png" width="48%" align="top">
-
-
-
 ### Where do you focus?
 
 There is so much information!  What should we look?
@@ -163,6 +125,46 @@ It really helps to arrange your screen well
 
 ![Screen layout with screenshare on one side and learner on other side](https://coderefinery.org/manuals/_images/layout--learner-livestream-sidebyside-onebrowser.png)
 
+
+### If you are only in the livestream
+
+- Watch and exercises yourself as you would like!
+
+### If you are in an in-person room
+
+- Watch the stream together, during exercises, work together.
+
+
+### If you are in Zoom for exercises
+
+- You switch between the livestream and Zoom.  **We make it clear.**
+
+- Who to ask for help: Zoom host or HackMD
+
+- You can join Zoom breakout rooms yourself, use the "breakout rooms"
+  button.  "Leave meeting" also allows you to return to the main room.
+
+  - If you can't, use chat to ask for help.
+
+- Zoom "Dual monitor mode" may be useful (it makes a separate window
+  for the screen share, you can hide pictures if you want)
+
+<!--
+  ![Screenshot of Zoom settings](https://coderefinery.github.io/manuals/_images/zoom--settings-monitors-fullscreen.png)
+
+- If you need help moving to a breakout room:
+
+  - Rename yourself to include your "Breakout room number", e.g. "(13)
+    Richard Darst".
+    - Helpers are "(13,H) Richard Darst"
+
+    ![Screenshot of Zoom names as described above](https://coderefinery.github.io/manuals/_images/zoom--learner-names.png)
+
+  - You rename yourself from the participants list:
+
+    <img src="https://coderefinery.github.io/manuals/_images/zoom--participants.png" width="48%" align="top">
+    <img src="https://coderefinery.github.io/manuals/_images/zoom--rename.png" width="48%" align="top">
+-->
 
 
 ## Care for the community
