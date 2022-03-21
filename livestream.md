@@ -224,7 +224,7 @@ that the above points prevent things from getting to here.
 
 - CodeRefinery is an open project, join us.
   - Website: https://coderefinery.org → Get Involved
-  - Chat: https://coderefinery.github.io/manuals/chat/
+  - Chat: https://coderefinery.github.io/manuals/chat/ (`#tools-workshop`)
   - CodeRefinery manuals: https://coderefinery.github.io/manuals/
 
 We need volunteers to make this a success in the future.  We are also
@@ -233,7 +233,12 @@ happy to have institutional partners.
 
 ### Help out with this workshop
 
-- e.g. video editing, YouTube captioning, etc.
+- Be active: use HackMD, be active in breakouts, help each other, etc.
+- Be an exercise leaders (next time...)
+- Video editing, so we can release videos soon (ask us on chat)
+- Tweet
+- Give us any other feedback you have.
+- Ask in CodeRefinery chat and see what else we need.
 
 
 ### Privacy
