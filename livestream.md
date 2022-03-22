@@ -69,9 +69,9 @@ You can watch various ways:
 
 There are many parts of the workshop (*this will all make sense soon*):
 
-- Demos and talking (main room)
-- Type-along (main room)
-- Exercises (breakout rooms)
+- Demos and talking (livestream)
+- Type-along (livestream)
+- Exercises (in teams or alone)
 - Breaks, at least 10 minutes/hour
 
 There is a **lot** of material, and everyone will take a slightly
