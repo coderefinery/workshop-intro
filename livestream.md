@@ -65,7 +65,7 @@ You can watch various ways:
 
 - Livestream - anyone!
 - Livestream, separate Zoom for exercises and discussion
-- Livestream, some in-person meetups for exercises and discussion
+- Livestream, in-person meetups for exercises and discussion
 
 There are many parts of the workshop (*this will all make sense soon*):
 
@@ -77,13 +77,27 @@ There are many parts of the workshop (*this will all make sense soon*):
 There is a **lot** of material, and everyone will take a slightly
 different path.  This is OK!
 
+### Screen arrangement
+
+Arranging your screen is surprisingly difficult!
+
+* We share a vertical window, so half of the screen is for us, and
+  half is for demos.
+* Zoom "Dual monitor mode" (in the settings) gives you two windows
+  which might be useful.
+
+![Example screen arrangement with broadcast on one side and learner
+space on the other](https://coderefinery.github.io/manuals/_images/layout--learner-livestream-sidebyside-onebrowser.png)
+
 
 ### Chat and communication
 
+**HackMD** is a collaborative document service.
+
+- We use HackMD to distribute information to you.
+
 - Use HackMD for chat: questions in bullet points:
   ![View and edit modes at top](https://coderefinery.github.io/manuals/_images/hackmd--questions2.png)
-
-- From here you can also find important links and reference.
 
 - You can switch between view and edit modes:
   ![View and edit modes at top](https://coderefinery.github.io/manuals/_images/hackmd--controls.png)
@@ -99,7 +113,8 @@ different path.  This is OK!
 
 - **Don't include names or identifies in HackMD: it is public.**
 
-- Please don't use the Zoom chat for questions: who can keep track?
+- Please don't use the Twitch or Zoom chat for questions: who can keep
+  track?
   - But you can for practical questions, if you are in Zoom.
 
 **Icebreaker: Please answer the icebreaker question in HackMD**
@@ -116,16 +131,6 @@ There is so much information!  What should we look?
 - Lesson webpage (as needed, direct links in HackMD)
 
 
-### Screen arrangement
-
-It really helps to arrange your screen well
-
-- We share a vertical window, so half of the screen is for us, and
-  half is for demos.
-
-![Screen layout with screenshare on one side and learner on other side](https://coderefinery.org/manuals/_images/layout--learner-livestream-sidebyside-onebrowser.png)
-
-
 ### If you are only in the livestream
 
 - Watch and exercises yourself as you would like!
@@ -133,7 +138,6 @@ It really helps to arrange your screen well
 ### If you are in an in-person room
 
 - Watch the stream together, during exercises, work together.
-
 
 ### If you are in Zoom for exercises
 
@@ -169,9 +173,10 @@ It really helps to arrange your screen well
 
 ### Please register if you haven't yet
 
+- You will get emails from us with updates
 - It helps us with our reporting and ensures funding
 - You are registered if you got emails directly from us
-- Link in HackMD
+- Registration link is in HackMD
 
 
 
@@ -235,7 +240,6 @@ happy to have institutional partners.
 
 - Be active: use HackMD, be active in breakouts, help each other, etc.
 - Be an exercise leaders (next time...)
-- Video editing, so we can release videos soon (ask us on chat)
 - Tweet
 - Give us any other feedback you have.
 - Ask in CodeRefinery chat and see what else we need.
@@ -253,5 +257,3 @@ happy to have institutional partners.
 ### Certificates
 
 - The webpage lists ways to request certificates from certain partners.
-
-
