@@ -34,7 +34,7 @@ The point is that everyone has to have base skills in order to:
 
 CodeRefinery is a partnership of ENCCS (SE), CSC (FI), DeiC (DK),
 UNINETT Sigma2 (NO), SNIC (SE), Type 1 Consortium for Interactive HPC
-(DK), and USIT, UiO (NO).
+(DK), and USIT, UiO (NO), and Aalto University (FI).
 
 
 ### Who are we?
