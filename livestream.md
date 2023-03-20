@@ -6,12 +6,12 @@
 
 ## Generic welcome
 
-Welcome!
+Hello everyone.
 
 
-## About the workshop
+## Why are we here?
 
-These days, computation is everywhere.  Many people learn programming,
+**These days, computation is everywhere.**  Many people learn programming,
 but it's much harder to learn how all of the things fit together in
 practice.
 
@@ -27,10 +27,9 @@ The point is that everyone has to have base skills in order to:
 
 ### What is CodeRefinery
 
-- Nordic project to teach basic scientific computing tools
-- Funded by https://neic.no
-- Run this workshop, and others like it
-- Gitlab at https://source.coderefinery.org
+- Nordic project to teach basic scientific computing tools, funded by the Nordic e-Infrastructure Collaboration (https://neic.no)
+- Runs this workshop, and others like it
+- Gitlab service at https://source.coderefinery.org
 
 CodeRefinery is a partnership of ENCCS (SE), CSC (FI), DeiC (DK),
 UNINETT Sigma2 (NO), SNIC (SE), Type 1 Consortium for Interactive HPC
@@ -44,16 +43,11 @@ UNINETT Sigma2 (NO), SNIC (SE), Type 1 Consortium for Interactive HPC
 - Expert helpers
 - Exercise leaders
 
-Introductions?  ... we probably won't have time.
-
-
-### Not everything will be perfect
-
-- We have more material than we can cover: we adjust to the audience.
+Introductions?  ... happen during icebreakers and before each lesson.
 
 
 
-## Practicalities
+## Practical matters: how to attend
 
 
 ### How the workshop works
@@ -71,7 +65,7 @@ There are many parts of the workshop (*this will all make sense soon*):
 
 - Demos and talking (livestream)
 - Type-along (livestream)
-- Exercises (in teams or alone)
+- Exercises sessons (alone or in teams)
 - Breaks, at least 10 minutes/hour
 
 There is a **lot** of material, and everyone will take a slightly
@@ -182,6 +176,11 @@ There is so much information!  What should we look?
 
 ## Care for the community
 
+### Not everything will be perfect
+
+- We have more material than we can cover: we adjust to the audience.
+
+
 ### This is a live production, not curated
 
 - The "schedule" is more of a goal than a schedule
@@ -209,7 +208,7 @@ We leave you with four pieces of advice for now:
 - ***Everyone* here is both a teacher and a learner.**  Be careful
   that your help is at the right level, considering the above.
 - **Take time to check in.** For example, ask "how's it going? is
-  everyone getting what they need?", in breakout rooms.
+  everyone getting what they need?" in your teams.
 - **When something isn't going right, *speak (or HackMD) up quickly***.
   We want to help, even if the answer is "let's discuss later".
 
@@ -220,6 +219,48 @@ In the worst case, there may be problem with someone.  In that case,
 we follow our [Code of
 Conduct](https://coderefinery.org/about/code-of-conduct/).  We expect
 that the above points prevent things from getting to here.
+
+
+
+## Things that can (and will) go wrong
+
+### You get overloaded with information
+- Don't worry!
+- Change your watching style and know material will be available for you to watch later.
+- Instant video replays help here, but the material is also open.
+
+### HackMD is too fast to follow
+- Don't follow it.  It's published for future reference.
+- Write your question and come back to it later.
+
+### HackMD lags and you can't edit / text goes wrong
+- This sometimes happens with high load
+- We recently upgraded but it could still happen.
+- Everyone: Switch to "view mode" and wait for it to calm down.
+- The real solution is that we (the staff) need to keep it shorter - we will move older data to an "archive HackMD". 
+
+### There are major accessibility problems
+- e.g. audio quality is bad, screen not visible, breaks not coming, unintelligble explanation...
+- Write the problem in the bottom of HackMD immediately.
+
+### The stream suddenly dies
+- Broadcaster's computer has crashed.
+- Stay around and it will resume in about 5 minutes.
+
+### You don't yet have some important software installed or configured
+- Oops... but it's OK
+- Switch to "watching" mode and work on fixing it for the next day.
+- Ask for help if needed
+- Check installation instructions to see what may be missing.
+
+### You can't attend every day
+- Review material later, raw Twitch video delay is about zero minutes.
+
+### The course is too cool and you want to know more
+- Check out hints in the workshop-outro
+
+
+
 
 
 
@@ -238,7 +279,7 @@ happy to have institutional partners.
 
 ### Help out with this workshop
 
-- Be active: use HackMD, be active in breakouts, help each other, etc.
+- Be active: use HackMD, be active in teams, help each other, etc.
 - Be an exercise leaders (next time...)
 - Tweet
 - Give us any other feedback you have.
