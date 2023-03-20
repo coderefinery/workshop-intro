@@ -71,14 +71,13 @@ There are many parts of the workshop (*this will all make sense soon*):
 There is a **lot** of material, and everyone will take a slightly
 different path.  This is OK!
 
+
 ### Screen arrangement
 
 Arranging your screen is surprisingly difficult!
 
 * We share a vertical window, so half of the screen is for us, and
   half is for demos.
-* Zoom "Dual monitor mode" (in the settings) gives you two windows
-  which might be useful.
 
 ![Example screen arrangement with broadcast on one side and learner
 space on the other](https://coderefinery.github.io/manuals/_images/layout--learner-livestream-sidebyside-onebrowser.png)
@@ -86,12 +85,9 @@ space on the other](https://coderefinery.github.io/manuals/_images/layout--learn
 
 ### Chat and communication
 
-**HackMD** is a collaborative document service.
+**HackMD/HedgeDoc** is a collaborative document tool.
 
 - We use HackMD to distribute information to you.
-
-- Use HackMD for chat: questions in bullet points:
-  ![View and edit modes at top](https://coderefinery.github.io/manuals/_images/hackmd--questions2.png)
 
 - You can switch between view and edit modes:
   ![View and edit modes at top](https://coderefinery.github.io/manuals/_images/hackmd--controls.png)
@@ -100,31 +96,30 @@ space on the other](https://coderefinery.github.io/manuals/_images/layout--learn
     can go back to view)
   - Please leave in view mode if you aren't actively using it
 
-- Someone watches these and will answer or raise relevant questions by
-  voice.
+- Use HackMD for "chat": questions in bullet points:
+  ![View and edit modes at top](https://coderefinery.github.io/manuals/_images/hackmd--questions2.png)
 
-- Don't get overloaded!  The point is you can read later.
+- Instructors and helpers watch and answer (by writing or on-stream).
 
-- **Don't include names or identifies in HackMD: it is public.**
+- **Do not include names or identifies in HackMD: it is public.**
 
-- Please don't use the Twitch or Zoom chat for questions: who can keep
+- Please don't use the Twitch or Zoom chat for questions about the content: who can keep
   track?
-  - But you can for practical questions, if you are in Zoom.
 
 **Icebreaker: Please answer the icebreaker question in HackMD**
+
 
 ### Where do you focus?
 
 There is so much information!  What should we look?
 
-- **Livestream**
-- **Your own type-along**
-- **HackMD (all important links should be pasted here)**
-  - Only look at the bottom.
-  - Come back and read detailed answers later, not during.
-- Lesson webpage (as needed, direct links in HackMD)
+1. **Livestream** - first priority
+2. **Your team** - if you have one
+3. **Your own type-along** - when you can
+5. **Lesson material webpage** (as needed)
+4. **HackMD** - to find info or do Q&A
 
-
+<!--
 ### If you are only in the livestream
 
 - Watch and exercises yourself as you would like!
@@ -146,7 +141,7 @@ There is so much information!  What should we look?
 
 - Zoom "Dual monitor mode" may be useful (it makes a separate window
   for the screen share, you can hide pictures if you want)
-
+-->
 <!--
   ![Screenshot of Zoom settings](https://coderefinery.github.io/manuals/_images/zoom--settings-monitors-fullscreen.png)
 
@@ -165,13 +160,6 @@ There is so much information!  What should we look?
 -->
 
 
-### Please register if you haven't yet
-
-- You will get emails from us with updates
-- It helps us with our reporting and ensures funding
-- You are registered if you got emails directly from us
-- Registration link is in HackMD
-
 
 
 ## Care for the community
@@ -179,13 +167,8 @@ There is so much information!  What should we look?
 ### Not everything will be perfect
 
 - We have more material than we can cover: we adjust to the audience.
-
-
-### This is a live production, not curated
-
-- The "schedule" is more of a goal than a schedule
+- This is a live production, not curated
 - We adjust to what each particular audience wants
-- Every workshop is unique and we try to make it exciting.
 
 
 ### Instructors and helpers aren't perfect
@@ -222,6 +205,7 @@ that the above points prevent things from getting to here.
 
 
 
+
 ## Things that can (and will) go wrong
 
 ### You get overloaded with information
@@ -231,6 +215,7 @@ that the above points prevent things from getting to here.
 
 ### HackMD is too fast to follow
 - Don't follow it.  It's published for future reference.
+- Only look at the bottom during the sessions.  Review later.
 - Write your question and come back to it later.
 
 ### HackMD lags and you can't edit / text goes wrong
@@ -238,6 +223,15 @@ that the above points prevent things from getting to here.
 - We recently upgraded but it could still happen.
 - Everyone: Switch to "view mode" and wait for it to calm down.
 - The real solution is that we (the staff) need to keep it shorter - we will move older data to an "archive HackMD". 
+  ![Screenshot of HackMD with a link to Archive HackMD outlined in a red box.](https://coderefinery.github.io/manuals/_images/hackmd--archivelink.png)
+
+### We don't have time to cover everything
+- This is just a fact - sorry.
+- You can review later
+- Talk with collaborators and make your own study network
+
+### We deviate from the schedule
+- We try to stay on track
 
 ### There are major accessibility problems
 - e.g. audio quality is bad, screen not visible, breaks not coming, unintelligble explanation...
@@ -256,15 +250,27 @@ that the above points prevent things from getting to here.
 ### You can't attend every day
 - Review material later, raw Twitch video delay is about zero minutes.
 
+### A cat visits one of the instructors
+- How is this a problem?
+
 ### The course is too cool and you want to know more
 - Check out hints in the workshop-outro
-
+- Join as a team leader next time
+- Ask your local supporters
 
 
 
 
 
 ## Final notes
+
+### Please register if you haven't yet
+
+- You will get emails from us with updates
+- It helps us with our reporting and ensures funding
+- You are registered if you got emails directly from us
+- Registration link is in HackMD
+
 
 ### Join us!
 
@@ -277,13 +283,11 @@ We need volunteers to make this a success in the future.  We are also
 happy to have institutional partners.
 
 
-### Help out with this workshop
+### Social media
 
-- Be active: use HackMD, be active in teams, help each other, etc.
-- Be an exercise leaders (next time...)
-- Tweet
-- Give us any other feedback you have.
-- Ask in CodeRefinery chat and see what else we need.
+- #CodeRefinery
+- Mastodon: [@coderefinery@fosstodon.org](https://fosstodon.org/@coderery).
+- Twitter: [@coderefine](https://twitter.com/coderefine)
 
 
 ### Privacy
