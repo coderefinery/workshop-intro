@@ -219,12 +219,21 @@ that the above points prevent things from getting to here.
 - Write your question and come back to it later.
 
 ### We can't solve your problems in the Notes doc
-- We can answer general questions and give hints, but can't solve
+- We can many questions and give hints, but can't solve
   everything
 - Some things are best solved by someone seeing your screen.
+- Switch your watching style and try to work it out later.
 - **We recommend you have local support.  Partners have local
   support.  It might be wise to have someone around to ask.**
 
+### We don't have time to cover everything
+- This is just a fact - sorry.
+- Lessons are designed with extra material for later study.
+- You are encouraged to review later.
+- Talk with collaborators and make your own study network.
+
+### We deviate from the schedule
+- We try to stay on track, but make choices depending each course.
 
 ### Notes lag and you can't edit / text goes wrong
 - This sometimes happens with high load
@@ -233,14 +242,6 @@ that the above points prevent things from getting to here.
 - The real solution is that we (the staff) need to keep it shorter -
   we will move older data to an "archive Notes doc".
   ![Screenshot of Notes with a link to Archive Notes outlined in a red box.](https://coderefinery.github.io/manuals/_images/hackmd--archivelink.png)
-
-### We don't have time to cover everything
-- This is just a fact - sorry.
-- You can review later
-- Talk with collaborators and make your own study network
-
-### We deviate from the schedule
-- We try to stay on track
 
 ### There are major accessibility problems
 - e.g. audio quality is bad, screen not visible, breaks not coming, unintelligble explanation...
@@ -261,6 +262,7 @@ that the above points prevent things from getting to here.
 
 ### A cat visits one of the instructors
 - How is this a problem?
+- CATS visiting is one of the highlights of the day.
 
 ### The course is too cool and you want to know more
 - Check out hints in the workshop-outro
