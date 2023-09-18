@@ -85,9 +85,9 @@ space on the other](https://coderefinery.github.io/manuals/_images/layout--learn
 
 ### Chat and communication
 
-**HackMD/HedgeDoc** is a collaborative document tool.
+The **Notes Doc** is a collaborative document tool.
 
-- We use HackMD to distribute information to you.
+- We use a collab doc to distribute information to you.
 
 - You can switch between view and edit modes:
   ![View and edit modes at top](https://coderefinery.github.io/manuals/_images/hackmd--controls.png)
@@ -96,17 +96,17 @@ space on the other](https://coderefinery.github.io/manuals/_images/layout--learn
     can go back to view)
   - Please leave in view mode if you aren't actively using it
 
-- Use HackMD for "chat": questions in bullet points:
+- Use the Notes for "chat": questions in bullet points:
   ![View and edit modes at top](https://coderefinery.github.io/manuals/_images/hackmd--questions2.png)
 
 - Instructors and helpers watch and answer (by writing or on-stream).
 
-- **Do not include names or identifies in HackMD: it is public.**
+- **Do not include names or identifies in the Notes Doc: it is public.**
 
 - Please don't use the Twitch or Zoom chat for questions about the content: who can keep
   track?
 
-**Icebreaker: Please answer the icebreaker question in HackMD**
+**Icebreaker: Please answer the icebreaker question in the Notes**
 
 
 ### Where do you focus?
@@ -117,7 +117,7 @@ There is so much information!  What should we look?
 2. **Your team** - if you have one
 3. **Your own type-along** - when you can
 5. **Lesson material webpage** (as needed)
-4. **HackMD** - to find info or do Q&A
+4. **Notes** - to find info or do Q&A
 
 <!--
 ### If you are only in the livestream
@@ -132,7 +132,7 @@ There is so much information!  What should we look?
 
 - You switch between the livestream and Zoom.  **We make it clear.**
 
-- Who to ask for help: Zoom host or HackMD
+- Who to ask for help: Zoom host or Notes
 
 - You can join Zoom breakout rooms yourself, use the "breakout rooms"
   button.  "Leave meeting" also allows you to return to the main room.
@@ -192,7 +192,7 @@ We leave you with four pieces of advice for now:
   that your help is at the right level, considering the above.
 - **Take time to check in.** For example, ask "how's it going? is
   everyone getting what they need?" in your teams.
-- **When something isn't going right, *speak (or HackMD) up quickly***.
+- **When something isn't going right, *speak (or Notes Doc) up quickly***.
   We want to help, even if the answer is "let's discuss later".
 
 
@@ -213,17 +213,26 @@ that the above points prevent things from getting to here.
 - Change your watching style and know material will be available for you to watch later.
 - Instant video replays help here, but the material is also open.
 
-### HackMD is too fast to follow
+### Notes doc is too fast to follow
 - Don't follow it.  It's published for future reference.
 - Only look at the bottom during the sessions.  Review later.
 - Write your question and come back to it later.
 
-### HackMD lags and you can't edit / text goes wrong
+### We can't solve your problems in the Notes doc
+- We can answer general questions and give hints, but can't solve
+  everything
+- Some things are best solved by someone seeing your screen.
+- **We recommend you have local support.  Partners have local
+  support.  It might be wise to have someone around to ask.**
+
+
+### Notes lag and you can't edit / text goes wrong
 - This sometimes happens with high load
 - We recently upgraded but it could still happen.
 - Everyone: Switch to "view mode" and wait for it to calm down.
-- The real solution is that we (the staff) need to keep it shorter - we will move older data to an "archive HackMD". 
-  ![Screenshot of HackMD with a link to Archive HackMD outlined in a red box.](https://coderefinery.github.io/manuals/_images/hackmd--archivelink.png)
+- The real solution is that we (the staff) need to keep it shorter -
+  we will move older data to an "archive Notes doc".
+  ![Screenshot of Notes with a link to Archive Notes outlined in a red box.](https://coderefinery.github.io/manuals/_images/hackmd--archivelink.png)
 
 ### We don't have time to cover everything
 - This is just a fact - sorry.
@@ -235,7 +244,7 @@ that the above points prevent things from getting to here.
 
 ### There are major accessibility problems
 - e.g. audio quality is bad, screen not visible, breaks not coming, unintelligble explanation...
-- Write the problem in the bottom of HackMD immediately.
+- Write the problem in the bottom of the Notes immediately.
 
 ### The stream suddenly dies
 - Broadcaster's computer has crashed.
@@ -269,7 +278,7 @@ that the above points prevent things from getting to here.
 - You will get emails from us with updates
 - It helps us with our reporting and ensures funding
 - You are registered if you got emails directly from us
-- Registration link is in HackMD
+- Registration link is in the Notes
 
 
 ### Join us!
@@ -294,8 +303,9 @@ happy to have institutional partners.
 
 - There is no way for your audio and video to end up broadcasted or
   recorded.
-- **Don't put names in HackMD at any time**
-- HackMD content will be posted on the course page, without names.
+- **Don't put names or identifiable info in the Notes Doc at any
+  time**
+- Notes content will be posted on the course page, without names.
 - All outputs are CC-BY.
 
 
