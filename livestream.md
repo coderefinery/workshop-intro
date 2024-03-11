@@ -52,7 +52,7 @@ All recordings will be available on twitch right away and on youtube the day aft
 
 ### Collaborative Document
 
-Even though this is a livestream workshop, you are never alone, we use a collaborative doument as our connection to you. We use it:
+Even though this is a livestream workshop, you are never alone, we use a collaborative document as our connection to you. We use it:
 
 - to distribute information to you.
 
