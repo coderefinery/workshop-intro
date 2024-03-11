@@ -256,9 +256,9 @@ Please share your experiences about the workshop!
 
 - There is no way for your audio and video to end up broadcasted or
   recorded.
-- **Don't put names or identifiable info in the Notes Doc at any
+- **Don't put names or identifiable info in the collaborative document at any
   time**
-- Notes content will be posted on the course page, without names.
+- Collaborative document contents will be posted on the course page, without names.
 - All outputs are CC-BY.
 
 
