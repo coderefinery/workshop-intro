@@ -41,9 +41,7 @@ This is a livestreamed workshop!
 
 Everyone will watch the livestream of instructors talking and showing demos on Twitch. 
 
-In week 1, there will also be exercises, which you can do in various ways: 
-
-![Ways of attending a CodeRefinery workshop , exercise sessions](img/exercise_options.png)
+In week 1, there will also be exercises, which you can do in two ways: on your own or in team. 
 
 No dedicated (team) exercise time in week 2, but interaction via collaborative document. 
 
@@ -54,15 +52,14 @@ All recordings will be available on twitch right away and on youtube the day aft
 
 ### Collaborative Document
 
-The collaborative doument is our connection to you. We use it:
+Even though this is a livestream workshop, you are never alone, we use a collaborative doument as our connection to you. We use it:
 
 - to distribute information to you.
 
 - as a "chat":
   - let us know about accessibility issues
-  - ask questions, get answers
-  - anonymous ;)
-  - 
+  - ask questions , it is anonymous!
+    
   ![Example questions in collaborative document](https://coderefinery.github.io/manuals/_images/hackmd--questions2.png)
 
 - Please don't use the Twitch chat for questions about the content!
@@ -77,7 +74,7 @@ You can switch between view and edit modes:
 
 **Hands-on for all: Collaborative document and icebreaker**
 
-## Setup for the workshop
+## Practical setup for the workshop
 
 ### Own course directory
 
@@ -85,7 +82,7 @@ We suggest to create a directory/folder for this course on your computer, where 
 
 ### Screen arrangement
 
-This workshop provides many things to keep track of. A screen setup suggestion...
+This workshop provides many things to keep track of. We suggest: 
 
 We share a vertical window, so half of the screen is for us, and
   half is for your own work.
@@ -105,7 +102,7 @@ There is so much information!
 
 If you know some of the material already, please help answering questions on the collaborative document.
 
-Some advice:
+Some things to keep in mind:
 
 - **Everyone here is at different levels, and that's expected.**
   Everyone will be learning different things, and everyone will focus
@@ -202,14 +199,14 @@ Conduct](https://coderefinery.org/about/code-of-conduct/).
 - Local teams at universities, ask your team leader
 - [General instructions for getting a certificate](https://coderefinery.github.io/2024-03-12-workshop/certificates/)
 
-### Join us!
+### Join the CodeRefinery team
 
 - CodeRefinery is an open project, join us.
   - Website: https://coderefinery.org → Get Involved
   - Chat: https://coderefinery.github.io/manuals/chat/ (`#tools-workshop`)
   - CodeRefinery manuals: https://coderefinery.github.io/manuals/
 
-We need volunteers to make this a success in the future.  We are also
+We need volunteers and partners to continue making this a success in the future.  We are also
 happy to have institutional partners.
 
 
