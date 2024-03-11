@@ -9,8 +9,6 @@
 
 ## Why are we here?
 
-![6 helpful steps towards reproducible research, by Heidi Seibold](img/reproducible_research_hseibold.jpeg)
-
 **These days, computation is everywhere.**  Many people learn programming,
 but it's much harder to learn how all of the things fit together in
 practice.
@@ -23,6 +21,8 @@ The point is that everyone has to have basic computing skills in order to:
 - Do their science without barriers
 - Produce higher quality, reproducible research
 - Collaborate
+
+![6 helpful steps towards reproducible research, by Heidi Seibold](img/reproducible_research_hseibold.jpeg)
 
 
 ## What is CodeRefinery
