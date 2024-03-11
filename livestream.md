@@ -45,7 +45,7 @@ EuroCC National Competence Center Sweden  (SE), National Academic Infrastructure
 
 ~ 6 exercise leaders
 
-~ 200 participants from ~ 25 different countries
+~ 250 participants from ~ 25 different countries
 
 Introductions?  ...during icebreakers and before each lesson.
 
@@ -266,5 +266,5 @@ Please share your experiences about the workshop!
 
 ### Certificates
 
-- The webpage lists ways to request certificates from certain partners.
-- Ask your local organizer
+- Local teams at universities, ask your team leader
+- [General instructions for getting a certificate](https://coderefinery.github.io/2024-03-12-workshop/certificates/)
