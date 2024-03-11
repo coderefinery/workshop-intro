@@ -56,7 +56,7 @@ Introductions?  ...during icebreakers and before each lesson.
 
 This is a livestreamed workshop! You can follow this workshop in various ways:
 
-![Ways of attending a CodeRefinery workshop , exercise sessions](img/exercise_options.svg)
+![Ways of attending a CodeRefinery workshop , exercise sessions](img/exercise_options.png)
 
 There are many parts of the workshop:
 
