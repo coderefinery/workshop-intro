@@ -9,6 +9,8 @@
 
 ## Why are we here?
 
+![6 helpful steps towards reproducible research, by Heidi Seibold](https://twitter.com/HeidiBaya/status/1579385587865649153/photo/1)
+
 **These days, computation is everywhere.**  Many people learn programming,
 but it's much harder to learn how all of the things fit together in
 practice.
