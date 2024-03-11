@@ -64,7 +64,7 @@ There are many parts of the workshop:
 - Exercises sessons (alone or in teams), only week 1
 - Breaks, at least 10 minutes/hour
 
-The materials are always available for everyone. 
+The materials are always available for everyone, and linked from the Workshop page. 
 All recordings will be available on twitch right away and on youtube the day after. 
 
 ### Collaborative Document
@@ -88,9 +88,10 @@ You can switch between view and edit modes:
 - You have to switch to edit mode once to get live updates (then you can go back to view)
 - Please leave in view mode if you aren't actively using it
 
-- **Do not include names or identifies in the document: it is public.**
+- **Do not include names or identifiers in the document: it is public.**
 
-**Collaborative document demo and icebreaker**
+**Hands-on for all: Collaborative document and icebreaker**
+
 
 ## Setup for the workshop
 
@@ -169,7 +170,7 @@ Conduct](https://coderefinery.org/about/code-of-conduct/).
 - Write your question and come back to it later.
 
 ### We can't solve your problems in the collaborative document
-- We can many questions and give hints, but can't solve
+- We can answer many questions and give hints, but can't solve
   everything
 - Some things are best solved by someone seeing your screen.
 - Switch your watching style and try to work it out later.
@@ -185,7 +186,7 @@ Conduct](https://coderefinery.org/about/code-of-conduct/).
 ### We deviate from the schedule
 - We try to stay on track, but make choices depending each course.
 
-### Collaborate document lags and you can't edit / text goes wrong
+### Collaborative document lags and you can't edit / text goes wrong
 - This sometimes happens with high load
 - We recently upgraded but it could still happen.
 - Everyone: Switch to "view mode" and wait for it to calm down.
@@ -227,7 +228,7 @@ Conduct](https://coderefinery.org/about/code-of-conduct/).
 - You will get emails from us with updates
 - It helps us with our reporting and ensures funding
 - You are registered if you got emails directly from us
-- Registration link is in the collaborative document
+- Registration via the [https://coderefinery.github.io/2024-03-12-workshop/](https://coderefinery.github.io/2024-03-12-workshop/)
 
 
 ### Join us!
@@ -243,6 +244,7 @@ happy to have institutional partners.
 
 ### Social media
 
+Please share your experiences about the workshop!
 - #CodeRefinery
 - Mastodon: [@coderefinery@fosstodon.org](https://fosstodon.org/@coderery).
 - Twitter: [@coderefine](https://twitter.com/coderefine)
