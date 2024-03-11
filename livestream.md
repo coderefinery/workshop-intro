@@ -90,6 +90,8 @@ You can switch between view and edit modes:
 
 **Collaborative document demo and icebreaker**
 
+## Setup for the workshop
+
 ### Screen arrangement
 
 A suggestion...
@@ -100,6 +102,9 @@ A suggestion...
 ![Example screen arrangement with broadcast on one side and learner
 space on the other](https://coderefinery.github.io/manuals/_images/layout--learner-livestream-sidebyside-onebrowser.png)
 
+### Own course directory
+
+We suggest to create a directory/folder for this course on your computer, where you can store all exercise materials etc., to make it easy to clean up later.  
 
 ### Where to focus?
 
