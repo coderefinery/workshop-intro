@@ -54,7 +54,8 @@ Introductions?  ...during icebreakers and before each lesson.
 
 ### How the workshop works
 
-This is a livestreamed workshop! You can follow this workshop in various ways:
+This is a livestreamed workshop! 
+Everyone will watch the livestream. In week 1, there will also be exercises, which you can do in various ways: 
 
 ![Ways of attending a CodeRefinery workshop , exercise sessions](img/exercise_options.png)
 
