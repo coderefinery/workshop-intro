@@ -55,9 +55,11 @@ Introductions?  ...during icebreakers and before each lesson.
 ### How the workshop works
 
 This is a livestreamed workshop! 
-Everyone will watch the livestream. In week 1, there will also be exercises, which you can do in various ways: 
+Everyone will watch the livestream on Twitch. In week 1, there will also be exercises, which you can do in various ways: 
 
 ![Ways of attending a CodeRefinery workshop , exercise sessions](img/exercise_options.png)
+
+No dedicated team exercise time in week 2, but interaction via collaborative document. 
 
 There are many parts of the workshop:
 
@@ -100,7 +102,7 @@ You can switch between view and edit modes:
 
 A suggestion...
 
-* We share a vertical window, so half of the screen is for us, and
+We share a vertical window, so half of the screen is for us, and
   half is for your own work.
 
 ![Example screen arrangement with broadcast on one side and learner
@@ -118,7 +120,7 @@ There is so much information!
 2. **Your team** - if you have one
 3. **Your own type-along** - when you can
 5. **Lesson material webpage** (as needed)
-4. **Notes** - to find info or do Q&A
+4. **Collaborative document** - to find info or do Q&A
 
 
 ## Care for the community
