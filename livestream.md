@@ -23,7 +23,7 @@ The point is that everyone has to have basic computing skills in order to:
 - Collaborate
 
 
-### What is CodeRefinery
+## What is CodeRefinery
 
 - Nordic project to teach basic scientific computing tools, funded by the Nordic e-Infrastructure Collaboration (https://neic.no)
 - Runs this workshop, and others like it
@@ -34,14 +34,16 @@ CSC - IT Center for Science (FI), Center for Humanities Computing (DK),
 Danish e-Infrastructure Cooperation (DK),
 EuroCC National Competence Center Sweden  (SE), National Academic Infrastructure for Super­computing in Sweden (NAISS) (SE) and NRIS/Sigma2 (NO).
 
-### Who are we?
+## Who is here today?
 
-About 10
+~ 10
 - Course coordinators
 - Instructors
 - Expert helpers
 
-About 6 exercise leaders
+~ 6 exercise leaders
+
+~ 200 participants from ~ 25 different countries
 
 Introductions?  ...during icebreakers and before each lesson.
 
@@ -50,24 +52,43 @@ Introductions?  ...during icebreakers and before each lesson.
 
 ### How the workshop works
 
-When some people teach online, they can reach ~20 people at once.  We
-can reach hundreds.
+This is a livestreamed workshop! You can follow this workshop in various ways:
 
-You can watch various ways:
+![Ways of attending a CodeRefinery workshop](img/participate_single.svg)
 
-- Livestream - anyone!
-- Livestream, in-person or online meetups for exercises and discussion
+There are many parts of the workshop:
 
-There are many parts of the workshop (*this will all make sense soon*):
-
-- Demos and talking (livestream)
-- Type-along (livestream)
-- Exercises sessons (alone or in teams)
+- Demos, type-along and talking (livestream)
+- Exercises sessons (alone or in teams), only week 1
 - Breaks, at least 10 minutes/hour
 
-There is a **lot** of material, we will not have time for all and everyone will take a slightly
-different path.  This is OK!
+The materials are always available for everyone. 
+All recordings will be available on twitch right away and on youtube the day after. 
 
+### Collaborative Document
+
+The collaborative doument is our connection to you. We use it:
+
+- to distribute information to you.
+
+- as a "chat":
+  - let us know about accessibility issues
+  - ask questions, get answers 
+  ![Example questions in collaborative document](https://coderefinery.github.io/manuals/_images/hackmd--questions2.png)
+
+- Please don't use the Twitch chat for questions about the content!
+
+#### Collaborative document usage
+
+You can switch between view and edit modes:
+![View and edit modes at top](https://coderefinery.github.io/manuals/_images/hackmd--controls.png)
+
+- You have to switch to edit mode once to get live updates (then you can go back to view)
+- Please leave in view mode if you aren't actively using it
+
+- **Do not include names or identifies in the document: it is public.**
+
+**Collaborative document demo and icebreaker**
 
 ### Screen arrangement
 
@@ -80,28 +101,6 @@ A suggestion...
 space on the other](https://coderefinery.github.io/manuals/_images/layout--learner-livestream-sidebyside-onebrowser.png)
 
 
-### Collaborative Document
-
-- We use a collab doc to distribute information to you.
-
-- You can switch between view and edit modes:
-  ![View and edit modes at top](https://coderefinery.github.io/manuals/_images/hackmd--controls.png)
-
-  - You have to switch to edit mode once to get live updates (then you
-    can go back to view)
-  - Please leave in view mode if you aren't actively using it
-
-- Use the Notes for "chat": questions in bullet points:
-  ![View and edit modes at top](https://coderefinery.github.io/manuals/_images/hackmd--questions2.png)
-
-- Instructors and helpers watch and answer (by writing or on-stream).
-
-- **Do not include names or identifies in the document: it is public.**
-
-- Please don't use the Twitch or Zoom chat for questions about the content!
-
-**Collaborative document demo and icebreaker**
-
 ### Where to focus?
 
 There is so much information!  
@@ -113,23 +112,14 @@ There is so much information!
 4. **Notes** - to find info or do Q&A
 
 
-### If you are only in the livestream
-
-- Watch and exercises yourself as you would like!
-
-### If you are in an in-person room
-
-- Watch the stream together, during exercises, work together.
-
-
 ## Care for the community
 
 ### Not everything will be perfect
 
 - We have more material than we can cover: we adjust to the audience.
 - This is a live production, not curated
-- We try to adjust to what each particular audience wants
 
+-> Use the collaborative document
 
 ### Instructors and helpers aren't perfect
 
@@ -137,13 +127,9 @@ There is so much information!
 - Seeing things go wrong and get fixed is part of the pedagogy.
 - Please be nice to those who make this course possible.
 
-
 ### Be respectful and helpful
 
-It is actually hard to teach and mentor for tech like this.  We need
-everyone to take part in this process.
-
-We leave you with four pieces of advice for now:
+Four pieces of advice:
 
 - **Everyone here is at different levels, and that's expected.**
   Everyone will be learning different things, and everyone will focus
@@ -215,16 +201,17 @@ Conduct](https://coderefinery.org/about/code-of-conduct/).
 - Check installation instructions to see what may be missing.
 
 ### You can't attend every day
-- Review material later, raw Twitch video delay is about zero minutes.
+- Attend only the parts you are interested in 
+- Materials are always available
+- Video availability right away on Twitch, next day on YouTube
 
 ### A cat visits one of the instructors
-- How is this a problem?
-- CATS visiting is one of the highlights of the day.
+- <3
 
 ### The course is too cool and you want to know more
 - Check out hints in the workshop-outro
 - Join as a team leader next time
-- Ask your local supporters
+- Advertise to your organization to become a partner
 
 ## Final notes
 
@@ -268,3 +255,4 @@ happy to have institutional partners.
 ### Certificates
 
 - The webpage lists ways to request certificates from certain partners.
+- Ask your local organizer
