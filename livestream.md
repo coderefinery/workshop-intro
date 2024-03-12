@@ -20,18 +20,22 @@ CodeRefinery is an addition to general coding classes, supporting you to make yo
 - Runs this workshop, and others like it
 - Community of research software enthusiasts
 
-CodeRefinery is a partnership of Aalto university (FI),
+**[https://coderefinery.org](https://coderefinery.org)**
+
+CodeRefinery is a **partnership** of Aalto university (FI),
 CSC - IT Center for Science (FI), Center for Humanities Computing (DK), 
 Danish e-Infrastructure Cooperation (DK),
 EuroCC National Competence Center Sweden (ENCCS) (SE), National Academic Infrastructure for Super­computing in Sweden (NAISS) (SE) and NRIS/Sigma2 (NO).
 
+Wanna join us? -> [https://coderefinery.org/join/](https://coderefinery.org/join/)
+
 ## Who is here today?
 
-~ 10 course coordinators, instructors and expert helpers
+~ 10 course coordinators, instructors and expert helpers 
 
-~ 6 exercise leaders
+~ 6 team leaders 
 
-~ 250 participants from ~ 25 different countries
+~ 250 participants from ~ 25 different countries 
 
 ## Practical matters: how to attend
 
@@ -39,26 +43,29 @@ EuroCC National Competence Center Sweden (ENCCS) (SE), National Academic Infrast
 
 This is a livestreamed workshop! 
 
-Everyone will watch the livestream of instructors talking and showing demos on Twitch. 
+**Everyone will watch the livestream** of instructors talking and showing demos on Twitch. 
 
 In week 1, there will also be exercises, which you can do in two ways: on your own or in team. 
 
 No dedicated (team) exercise time in week 2, but interaction via collaborative document. 
 
-We plan on having a minimum 10 min break every hour.
+We plan on having a **minimum 10 min break every hour**.
 
-The materials are always available for everyone, and linked from the Workshop page. 
-All recordings will be available on twitch right away and on youtube the day after. 
+The materials are **always available for everyone**, and linked from the Workshop page. 
+
+All **recordings** will be available on twitch right away and on youtube the day after. 
 
 ### Collaborative Document
 
-Even though this is a livestream workshop, you are never alone, we use a collaborative document as our connection to you. We use it:
+Even though this is a livestream workshop, you are never alone, we use a collaborative document as our **connection to you**. 
+We use it:
 
-- to distribute information to you.
+- to **distribute information** to you.
 
 - as a "chat":
-  - let us know about accessibility issues
-  - ask questions , it is anonymous!
+  - let us know about **accessibility issues**
+  - **ask questions**
+  - Note: It is anonymous!
     
   ![Example questions in collaborative document](https://coderefinery.github.io/manuals/_images/hackmd--questions2.png)
 
@@ -95,7 +102,7 @@ space on the other](https://coderefinery.github.io/manuals/_images/layout--learn
 There is so much information!  
 
 1. **Livestream** - first priority
-2. **Collaborative document** - to find info or do Q&A
+2. **Collaborative document** - to find info or post questions and find answers
 3. **Lesson material webpage** (as needed)
 
 ## Be respectful and helpful
@@ -183,7 +190,7 @@ Conduct](https://coderefinery.org/about/code-of-conduct/).
 - You will get emails from us with updates
 - It helps us with our reporting and ensures funding
 - You are registered if you got emails directly from us
-- Registration via the [https://coderefinery.github.io/2024-03-12-workshop/](https://coderefinery.github.io/2024-03-12-workshop/)
+- Registration via the [workshop page](https://coderefinery.github.io/2024-03-12-workshop/)
 
 ### Privacy
 
@@ -206,8 +213,8 @@ Conduct](https://coderefinery.org/about/code-of-conduct/).
   - Chat: https://coderefinery.github.io/manuals/chat/ (`#tools-workshop`)
   - CodeRefinery manuals: https://coderefinery.github.io/manuals/
 
-We need volunteers and partners to continue making this a success in the future.  We are also
-happy to have institutional partners.
+**We need volunteers and partners to continue making this a success in the future.  We are also
+happy to have institutional partners.**
 
 
 ### Social media
