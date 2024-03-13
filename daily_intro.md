@@ -8,6 +8,8 @@ We learned about (intentionally using git terminology here for you to check that
 - [Commiting changes](https://coderefinery.github.io/git-intro/commits/)
 - [Pull requests](https://coderefinery.github.io/git-intro/merging/)
 
+For day 2, we'll move to local work. It's important that you have your local VS Code or command line terminal set up to follow (though many parts can also be done through the GitHub web interface still). See the [install instructions](https://coderefinery.github.io/installation/).
+
 ## For newcomers
 ### How the workshop works
 
@@ -47,4 +49,9 @@ These materials will also be available after the workshop and you may use and re
 You can find unedited recordings on [Twitch](https://www.twitch.tv/coderefinery) for some days. 
 With about one day delay, you can then also find edited recordings, with tags to easily jump to specific sections of the lesson on the [CodeRefinery youtube channel](https://www.youtube.com/channel/UC47aupE7HKGduAjXKt1Gwrg).
 
+## Bring your own code sessions
 
+Optional help session around the topics of the workshop. 
+**Bring your own code** and get help from our experts in implementing the concepts learned! 
+
+Tue (Mar 26) , 13:00 - 15:00 	CET and Tue (Apr 2) , 13:00 - 15:00 CEST
