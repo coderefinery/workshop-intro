@@ -53,6 +53,10 @@ These materials will also be available after the workshop and you may use and re
 You can find unedited recordings on [Twitch](https://www.twitch.tv/coderefinery) for some days. 
 With about one day delay, you can then also find edited recordings, with tags to easily jump to specific sections of the lesson on the [CodeRefinery youtube channel](https://www.youtube.com/channel/UC47aupE7HKGduAjXKt1Gwrg).
 
+### [Certificates](https://coderefinery.github.io/2024-03-12-workshop/certificates/)
+
+We are updating the instructions for the certificates to fit the updated lesson style. 
+
 ## Bring your own code sessions
 
 Optional help session around the topics of the workshop. 
