@@ -14,6 +14,19 @@ For day 2, we'll move to local work. To follow along for day 2, you need a local
 
 In reaction to your comments in the feedback yesterday, we now also have an **RStudio track** for Day 2 :) 
 
+---
+
+# Welcome to day 3 of the CodeRefinery workshop
+
+## Recap of day 1+2 - Introduction to version control
+
+...
+
+## What is coming on day 3 
+
+For day 3, we'll learn about how to collaborate with git. To follow
+
+
 ## For newcomers
 ### How the workshop works
 
@@ -53,9 +66,9 @@ These materials will also be available after the workshop and you may use and re
 You can find unedited recordings on [Twitch](https://www.twitch.tv/coderefinery) for some days. 
 With about one day delay, you can then also find edited recordings, with tags to easily jump to specific sections of the lesson on the [CodeRefinery youtube channel](https://www.youtube.com/channel/UC47aupE7HKGduAjXKt1Gwrg).
 
-### [Certificates](https://coderefinery.github.io/2024-03-12-workshop/certificates/)
+### Certificates
 
-We are updating the instructions for the certificates to fit the updated lesson style. 
+Freshly updated instructions can now be found on the [workshops webpage](https://coderefinery.github.io/2024-03-12-workshop/certificates/).
 
 ## Bring your own code sessions
 
