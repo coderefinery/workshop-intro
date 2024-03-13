@@ -8,7 +8,11 @@ We learned about (intentionally using git terminology here for you to check that
 - [Commiting changes](https://coderefinery.github.io/git-intro/commits/)
 - [Pull requests](https://coderefinery.github.io/git-intro/merging/)
 
-For day 2, we'll move to local work. It's important that you have your local VS Code or command line terminal set up to follow (though many parts can also be done through the GitHub web interface still). See the [install instructions](https://coderefinery.github.io/installation/).
+## What is coming on day 2
+
+For day 2, we'll move to local work. To follow along for day 2, you need a local VS Code installation or command line terminal set up. See the [install instructions](https://coderefinery.github.io/installation/). However, many parts can also be done through the GitHub web interface still. 
+
+In reaction to your comments in the feedback yesterday, we now also have an **RStudio track** for Day 2 :) 
 
 ## For newcomers
 ### How the workshop works
