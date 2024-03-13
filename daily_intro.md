@@ -20,11 +20,15 @@ In reaction to your comments in the feedback yesterday, we now also have an **RS
 
 ## Recap of day 1+2 - Introduction to version control
 
-...
+We learned about **version control**, how to do **commits**, **clone and fork repositories**, about **branches** and how they can be **merged**. 
+We also learned about how to move from working in the GitHub webinterface to your local environment and work with git on the command line/VSCode/RStudio.
 
 ## What is coming on day 3 
 
-For day 3, we'll learn about how to collaborate with git. To follow
+For day 3, we'll learn about how to collaborate with others or yourself using git: **[Collaborative distributed version control](https://coderefinery.github.io/git-collaborative/)**.
+- It builds on things from days 1 and 2, but if you know the basic concepts of git, you will be well preapared to follow too.
+- For the hands-on exercises we assume that you can link to and push/pull from GitHub.  You need to make sure the authentication works with whatever program you are using: https://coderefinery.github.io/installation/ssh/
+-> However, it is also possible to do everything in GitHub webinterface.
 
 
 ## For newcomers
