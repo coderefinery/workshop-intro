@@ -33,6 +33,19 @@ For day 3, we'll learn about how to collaborate with others or yourself using gi
 Today it all comes together, this also means that it might be harder to follow if you just now learned about version control. Don't give up, try to follow as you can and come back and review as necessary.
 
 
+# Welcome to day 4 of the CodeRefinery workshop
+
+## Recap of week 1 - Introduction to version control
+
+We learned about **version control**, how to do **commits**, **clone and fork repositories**, about **branches** and how they can be **merged**. 
+We also learned about how to move from working in the GitHub webinterface to your local environment and work with git on the command line/VSCode/RStudio.
+We also learned about how to collaborate effectively on repositories where you are a collaborator, and on repositories where you do not have any rights.
+
+## What is coming on week 2
+
+We will have demos and materials about lots of different concepts and tools around FAIR (findable, accessible, interoperable, reusable) research software.
+Depending on your own work, not all tools will be useful for you. We still recommend to check out at least the beginning of each lesson, to see if any of the motivations presented also apply to your work.
+
 ## For newcomers
 ### How the workshop works
 
