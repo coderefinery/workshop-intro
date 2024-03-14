@@ -26,9 +26,11 @@ We also learned about how to move from working in the GitHub webinterface to you
 ## What is coming on day 3 
 
 For day 3, we'll learn about how to collaborate with others or yourself using git: **[Collaborative distributed version control](https://coderefinery.github.io/git-collaborative/)**.
-- It builds on things from days 1 and 2, but if you know the basic concepts of git, you will be well preapared to follow too.
+- It builds on things from days 1 and 2, be prepared to look for info from previous days materials, but if you know the basic concepts of git, you will be well preapared to follow too. 
 - For the hands-on exercises we assume that you can link to and push/pull from GitHub.  You need to make sure the authentication works with whatever program you are using: https://coderefinery.github.io/installation/ssh/
 -> However, it is also possible to do everything in GitHub webinterface.
+
+Today it all comes together, this also means that it might be harder to follow if you just now learned about version control. Don't give up, try to follow as you can and come back and review as necessary.
 
 
 ## For newcomers
