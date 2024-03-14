@@ -14,6 +14,23 @@ For day 2, we'll move to local work. To follow along for day 2, you need a local
 
 In reaction to your comments in the feedback yesterday, we now also have an **RStudio track** for Day 2 :) 
 
+---
+
+# Welcome to day 3 of the CodeRefinery workshop
+
+## Recap of day 1+2 - Introduction to version control
+
+We learned about **version control**, how to do **commits**, **clone and fork repositories**, about **branches** and how they can be **merged**. 
+We also learned about how to move from working in the GitHub webinterface to your local environment and work with git on the command line/VSCode/RStudio.
+
+## What is coming on day 3 
+
+For day 3, we'll learn about how to collaborate with others or yourself using git: **[Collaborative distributed version control](https://coderefinery.github.io/git-collaborative/)**.
+- It builds on things from days 1 and 2, but if you know the basic concepts of git, you will be well preapared to follow too.
+- For the hands-on exercises we assume that you can link to and push/pull from GitHub.  You need to make sure the authentication works with whatever program you are using: https://coderefinery.github.io/installation/ssh/
+-> However, it is also possible to do everything in GitHub webinterface.
+
+
 ## For newcomers
 ### How the workshop works
 
@@ -53,9 +70,9 @@ These materials will also be available after the workshop and you may use and re
 You can find unedited recordings on [Twitch](https://www.twitch.tv/coderefinery) for some days. 
 With about one day delay, you can then also find edited recordings, with tags to easily jump to specific sections of the lesson on the [CodeRefinery youtube channel](https://www.youtube.com/channel/UC47aupE7HKGduAjXKt1Gwrg).
 
-### [Certificates](https://coderefinery.github.io/2024-03-12-workshop/certificates/)
+### Certificates
 
-We are updating the instructions for the certificates to fit the updated lesson style. 
+Freshly updated instructions can now be found on the [workshops webpage](https://coderefinery.github.io/2024-03-12-workshop/certificates/).
 
 ## Bring your own code sessions
 
