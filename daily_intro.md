@@ -59,8 +59,6 @@ This is a livestreamed workshop!
 
 **Everyone will watch the livestream** of instructors talking and showing demos on Twitch. 
 
-In week 1, there will also be **exercises**, which you can do in two ways: on your own or in team. 
-
 No dedicated (team) exercise time in week 2, but interaction via collaborative document. 
 
 We plan on having a minimum **10 min break every hour**.
