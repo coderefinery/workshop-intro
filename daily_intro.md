@@ -52,6 +52,16 @@ Week one of the workshop was all about version control, from basics to collabora
 
 Today we will discuss different ways of documenting research software from comments to READMEs and nicely rendered webpages. In the afternoon we will take a look into the world of Jupyter notebooks.
 
+# Welcome to day 6 of the CodeRefinery workshop
+
+Yesterday we covered documentation and Jupyter including some demos.
+
+Today is our last day that really wraps everything up:
+- Testing: putting all the git and github things together to see how to have checks to improve your code. 
+- Modular code development: An exciting live-coding section - we start with a basic plot in Jupyter and show how we make it more and more modular until it’s a reusable program.
+
+Stay until the end to hear about our suggestions to "what next?".
+
 ## For newcomers
 ### How the workshop works
 
