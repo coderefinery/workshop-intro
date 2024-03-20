@@ -46,6 +46,12 @@ We also learned about how to collaborate effectively on repositories where you a
 We will have demos and materials about lots of different concepts and tools around FAIR (findable, accessible, interoperable, reusable) research software.
 Depending on your own work, not all tools will be useful for you. We still recommend to check out at least the beginning of each lesson, to see if any of the motivations presented also apply to your work.
 
+# Welcome to day 5 of the CodeRefinery workshop
+
+Week one of the workshop was all about version control, from basics to collaborative use of **git**. Week two started yesterday with an overview of topics around reproducible research. We discussed how one can record computational steps, dependencies and environments. In the afternoon we took a peek into FAIR research software development practices.
+
+Today we will discuss different ways of documenting research software from comments to READMEs and nicely rendered webpages. In the afternoon we will take a look into the world of Jupyter notebooks.
+
 ## For newcomers
 ### How the workshop works
 
@@ -87,7 +93,7 @@ With about one day delay, you can then also find edited recordings, with tags to
 
 ### Certificates
 
-Freshly updated instructions can now be found on the [workshops webpage](https://coderefinery.github.io/2024-03-12-workshop/certificates/).
+Instructions can now be found on the [workshops webpage](https://coderefinery.github.io/2024-03-12-workshop/certificates/).
 
 ## Bring your own code sessions
 
