@@ -31,11 +31,29 @@ Wanna join us? -> [https://coderefinery.org/join/](https://coderefinery.org/join
 
 ## Who is here today?
 
-~ 10 course coordinators, instructors and expert helpers 
+- About 10 course coordinators, instructors and facilitators
+- Over 300 registered participants from over 20 different countries 
+- Learners from all levels and backgrounds
 
-~ 6 team leaders 
+## Be respectful and helpful
 
-~ 250 participants from ~ 25 different countries 
+If you know some of the material already, please help answering questions on the collaborative document.
+
+Some things to keep in mind:
+
+- **Everyone here is at different levels, and that's expected.**
+  Everyone will be learning different things, and everyone will focus
+  on different topics.  Passive learning is OK.
+- ***Everyone* here is both a teacher and a learner.**  Be careful
+  that your help is at the right level, considering the above.
+- **When something isn't going right, *use the collaborative document to let us know quickly***.
+  We want to help, even if the answer is "let's discuss later".
+
+## Code of Conduct
+
+In the worst case, there may be a problem with someone (instructor or fellow learner).  In that case,
+we follow our [Code of
+Conduct](https://coderefinery.org/about/code-of-conduct/).  
 
 ## Practical matters: how to attend
 
@@ -105,27 +123,6 @@ There is so much information!
 2. **Collaborative document** - to find info or post questions and find answers
 3. **Lesson material webpage** (as needed)
 
-## Be respectful and helpful
-
-If you know some of the material already, please help answering questions on the collaborative document.
-
-Some things to keep in mind:
-
-- **Everyone here is at different levels, and that's expected.**
-  Everyone will be learning different things, and everyone will focus
-  on different topics.  Passive learning is OK.
-- ***Everyone* here is both a teacher and a learner.**  Be careful
-  that your help is at the right level, considering the above.
-- **When something isn't going right, *use the collaborative document to let us know quickly***.
-  We want to help, even if the answer is "let's discuss later".
-
-## Code of Conduct
-
-In the worst case, there may be problem with someone.  In that case,
-we follow our [Code of
-Conduct](https://coderefinery.org/about/code-of-conduct/).  
-
-
 ## Things that can (and will) go wrong
 
 ### There are major accessibility problems
@@ -139,8 +136,8 @@ Conduct](https://coderefinery.org/about/code-of-conduct/).
 
 ### You get overloaded with information
 - Don't worry!
-- Change your watching style and know material will be available for you to watch later.
-- Instant video replays help here, but the material is also open.
+- Change to passive watching and re-watch or read about unclear topics later.
+- Use our bring your own code session to ask questions weeks after the workshop.
 
 ### Collaborative document is too fast to follow
 - Don't follow it.  It will be published for future reference.
@@ -190,7 +187,7 @@ Conduct](https://coderefinery.org/about/code-of-conduct/).
 - You will get emails from us with updates
 - It helps us with our reporting and ensures funding
 - You are registered if you got emails directly from us
-- Registration via the [workshop page](https://coderefinery.github.io/2024-03-12-workshop/)
+- Registration via the [workshop page](https://coderefinery.github.io/2024-09-10-workshop/)
 
 ### Privacy
 
@@ -204,7 +201,7 @@ Conduct](https://coderefinery.org/about/code-of-conduct/).
 ### Certificates
 
 - Local teams at universities, ask your team leader
-- [General instructions for getting a certificate](https://coderefinery.github.io/2024-03-12-workshop/certificates/)
+- [General instructions for getting a certificate](https://coderefinery.github.io/2024-09-10-workshop/certificates/)
 
 ### Join the CodeRefinery team
 
