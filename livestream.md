@@ -28,32 +28,7 @@ Danish e-Infrastructure Cooperation (DK),
 EuroCC National Competence Center Sweden (ENCCS) (SE), National Academic Infrastructure for Super­computing in Sweden (NAISS) (SE) and NRIS/Sigma2 (NO).
 
 Wanna join us? -> [https://coderefinery.org/join/](https://coderefinery.org/join/)
-
-## Who is here today?
-
-- About 10 course coordinators, instructors and facilitators
-- Over 300 registered participants from over 20 different countries 
-- Learners from all levels and backgrounds
-
-## Be respectful and helpful
-
-If you know some of the material already, please help answering questions on the collaborative document.
-
-Some things to keep in mind:
-
-- **Everyone here is at different levels, and that's expected.**
-  Everyone will be learning different things, and everyone will focus
-  on different topics.  Passive learning is OK.
-- ***Everyone* here is both a teacher and a learner.**  Be careful
-  that your help is at the right level, considering the above.
-- **When something isn't going right, *use the collaborative document to let us know quickly***.
-  We want to help, even if the answer is "let's discuss later".
-
-## Code of Conduct
-
-In the worst case, there may be a problem with someone (instructor or fellow learner).  In that case,
-we follow our [Code of
-Conduct](https://coderefinery.org/about/code-of-conduct/).  
+ 
 
 ## Practical matters: how to attend
 
@@ -179,6 +154,33 @@ There is so much information!
 - Check out hints in the workshop-outro
 - Join as a team leader next time
 - Advertise to your organization to become a partner
+
+## Who is here today?
+
+- About 10 course coordinators, instructors and facilitators
+  - Many are **Research Software Engineers** (more on this in the courses outro; but you may already check out [Nordic-RSE](https://nordic-rse.org/))
+- Over 300 registered participants from over 20 different countries 
+- Learners from all levels and backgrounds
+
+## Be respectful and helpful
+
+If you know some of the material already, please help answering questions on the collaborative document.
+
+Some things to keep in mind:
+
+- **Everyone here is at different levels, and that's expected.**
+  Everyone will be learning different things, and everyone will focus
+  on different topics.  Passive learning is OK.
+- ***Everyone* here is both a teacher and a learner.**  Be careful
+  that your help is at the right level, considering the above.
+- **When something isn't going right, *use the collaborative document to let us know quickly***.
+  We want to help, even if the answer is "let's discuss later".
+
+## Code of Conduct
+
+In the worst case, there may be a problem with someone (instructor or fellow learner).  In that case,
+we follow our [Code of
+Conduct](https://coderefinery.org/about/code-of-conduct/). 
 
 ## Final notes
 
