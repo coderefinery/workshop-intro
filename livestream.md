@@ -16,7 +16,7 @@ CodeRefinery is an addition to general coding classes, supporting you to make yo
 
 ## What is CodeRefinery
 
-- Nordic project to teach basic scientific computing tools, funded by the Nordic e-Infrastructure Collaboration (https://neic.no)
+- Nordic project to teach basic scientific computing tools, funded by the Nordic e-Infrastructure Collaboration (https://neic.no) and partner organizations
 - Runs this workshop, and others like it
 - Community of research software enthusiasts
 
@@ -26,8 +26,6 @@ CodeRefinery is a **partnership** of Aalto university (FI),
 CSC - IT Center for Science (FI), Center for Humanities Computing (DK), 
 Danish e-Infrastructure Cooperation (DK),
 EuroCC National Competence Center Sweden (ENCCS) (SE), National Academic Infrastructure for Super­computing in Sweden (NAISS) (SE) and NRIS/Sigma2 (NO).
-
-Wanna join us? -> [https://coderefinery.org/join/](https://coderefinery.org/join/)
  
 
 ## Practical matters: how to attend
@@ -84,8 +82,7 @@ We suggest to create a directory/folder for this course on your computer, where 
 
 This workshop provides many things to keep track of. We suggest: 
 
-We share a vertical window, so half of the screen is for us, and
-  half is for your own work.
+We share a vertical window, so half of the screen is for us, and half is for your own work.
 
 ![Example screen arrangement with broadcast on one side and learner
 space on the other](https://coderefinery.github.io/manuals/_images/layout--learner-livestream-sidebyside-onebrowser.png)
@@ -98,32 +95,11 @@ There is so much information!
 2. **Collaborative document** - to find info or post questions and find answers
 3. **Lesson material webpage** (as needed)
 
-## Things that can (and will) go wrong
+## Things that can (and likely will) go wrong
 
 ### There are major accessibility problems
 - e.g. audio quality is bad, screen not visible, breaks not coming, unintelligble explanation...
 - Write the problem in the bottom of the collaborative document immediately.
-
-### An instructor/team leader makes a mistake
-- No one knows everything.
-- Seeing things go wrong and get fixed is part of the pedagogy.
-- Please be nice to those who make this course possible.
-
-### You get overloaded with information
-- Don't worry!
-- Change to passive watching and re-watch or read about unclear topics later.
-- Use our bring your own code session to ask questions weeks after the workshop.
-
-### Collaborative document is too fast to follow
-- Don't follow it.  It will be published for future reference.
-- Write your question and come back to it later.
-
-### We can't solve your problems in the collaborative document
-- We can answer many questions and give hints, but can't solve
-  everything
-- Some things are best solved by someone seeing your screen.
-- Change your watching style and try to work it out later.
-- **We recommend to ask your local IT support for technical questions or join our "bring your own code" sessions (see schedule!)**
 
 ### We deviate from the schedule
 - We try to stay on track, but sometimes things do not go as planned and we have to leave out some (sub-)topic.
@@ -131,7 +107,7 @@ There is so much information!
 ### Collaborative document lags and you can't edit / text goes wrong
 - This sometimes happens with high load
 - Everyone: Switch to "view mode" and wait for it to calm down.
-- Wait a moment, workshop staff will move older content to archive, to lower the load.
+- Wait a moment, workshop staff will move older content to archive to lower the load.
 
 ### The stream suddenly dies
 - Broadcaster's computer has crashed.
@@ -146,14 +122,6 @@ There is so much information!
 - Attend only the parts you are interested in 
 - Materials are always available
 - Video availability right away on Twitch, next day on YouTube
-
-### A cat visits one of the instructors
-- <3
-
-### The course is too cool and you want to know more
-- Check out hints in the workshop-outro
-- Join as a team leader next time
-- Advertise to your organization to become a partner
 
 ## Who is here today?
 
@@ -170,7 +138,7 @@ Some things to keep in mind:
 
 - **Everyone here is at different levels, and that's expected.**
   Everyone will be learning different things, and everyone will focus
-  on different topics.  Passive learning is OK.
+  on different topics. Passive learning is OK.
 - ***Everyone* here is both a teacher and a learner.**  Be careful
   that your help is at the right level, considering the above.
 - **When something isn't going right, *use the collaborative document to let us know quickly***.
@@ -179,41 +147,34 @@ Some things to keep in mind:
 ## Code of Conduct
 
 In the worst case, there may be a problem with someone (instructor or fellow learner).  In that case,
-we follow our [Code of
-Conduct](https://coderefinery.org/about/code-of-conduct/). 
+we follow our [Code of Conduct](https://coderefinery.org/about/code-of-conduct/). 
 
 ## Final notes
 
 ### Please register if you haven't yet
 
 - You will get emails from us with updates
-- It helps us with our reporting and ensures funding
+- It helps us with our reporting enables us to apply for funding
 - You are registered if you got emails directly from us
-- Registration via the [workshop page](https://coderefinery.github.io/2024-09-10-workshop/)
+- Registration via the [workshop page](https://coderefinery.github.io/2025-03-25-workshop/)
 
 ### Privacy
 
-- There is no way for your audio and video to end up broadcasted or
-  recorded.
 - **Don't put names or identifiable info in the collaborative document at any
   time**
-- Collaborative document contents will be posted on the course page, without names.
-- All outputs are CC-BY.
+- Collaborative document contents will be posted on the workshop page after each day
+- All outputs are CC-BY
 
 ### Certificates
 
-- Local teams at universities, ask your team leader
-- [General instructions for getting a certificate](https://coderefinery.github.io/2024-09-10-workshop/certificates/)
+- [General instructions for getting a certificate](https://coderefinery.github.io/2025-03-25-workshop/certificates/)
 
-### Join the CodeRefinery team
-
-- CodeRefinery is an open project, join us.
-  - Website: https://coderefinery.org → Get Involved
-  - Chat: https://coderefinery.github.io/manuals/chat/ (`#tools-workshop`)
-  - CodeRefinery manuals: https://coderefinery.github.io/manuals/
+### CodeRefinery is an open project, [join us](https://coderefinery.org/join/)
 
 **We need volunteers and partners to continue making this a success in the future.  We are also
 happy to have institutional partners.**
+
+Contact us at <support@coderefinery.org> if you have any questions. 
 
 
 ### Social media
@@ -221,5 +182,5 @@ happy to have institutional partners.**
 Please share your experiences about the workshop!
 - #CodeRefinery
 - Mastodon: [@coderefinery@fosstodon.org](https://fosstodon.org/@coderery).
-- Twitter: [@coderefine](https://twitter.com/coderefine)
+- BlueSky: [@coderefinery.org](https://bsky.app/profile/coderefinery.org)
 - LinkedIn: [CodeRefinery](https://www.linkedin.com/company/88414793)
