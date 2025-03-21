@@ -95,7 +95,7 @@ There is so much information!
 2. **Collaborative document** - to find info or post questions and find answers
 3. **Lesson material webpage** (as needed)
 
-## Things that can (and will) go wrong
+## Things that can (and likely will) go wrong
 
 ### There are major accessibility problems
 - e.g. audio quality is bad, screen not visible, breaks not coming, unintelligble explanation...
@@ -107,7 +107,7 @@ There is so much information!
 ### Collaborative document lags and you can't edit / text goes wrong
 - This sometimes happens with high load
 - Everyone: Switch to "view mode" and wait for it to calm down.
-- Wait a moment, workshop staff will move older content to archive, to lower the load.
+- Wait a moment, workshop staff will move older content to archive to lower the load.
 
 ### The stream suddenly dies
 - Broadcaster's computer has crashed.
@@ -154,7 +154,7 @@ we follow our [Code of Conduct](https://coderefinery.org/about/code-of-conduct/)
 ### Please register if you haven't yet
 
 - You will get emails from us with updates
-- It helps us with our reporting and ensures funding
+- It helps us with our reporting enables us to apply for funding
 - You are registered if you got emails directly from us
 - Registration via the [workshop page](https://coderefinery.github.io/2025-03-25-workshop/)
 
@@ -162,7 +162,7 @@ we follow our [Code of Conduct](https://coderefinery.org/about/code-of-conduct/)
 
 - **Don't put names or identifiable info in the collaborative document at any
   time**
-- Collaborative document contents will be posted on the course page
+- Collaborative document contents will be posted on the workshop page after each day
 - All outputs are CC-BY
 
 ### Certificates
