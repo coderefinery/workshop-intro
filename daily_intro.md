@@ -12,7 +12,6 @@ We learned about (intentionally using git terminology here for you to check that
 
 For day 2, we'll move to local work. To follow along for day 2, you need a local VS Code installation or command line terminal set up. See the [install instructions](https://coderefinery.github.io/installation/). However, many parts can also be done through the GitHub web interface still. 
 
-In reaction to your comments in the feedback yesterday, we now also have an **RStudio track** for Day 2 :) 
 
 ---
 
@@ -90,7 +89,7 @@ Please don't put any names or other identifying information in the document!
 
 ### Lesson materials
 
-You can find **all the materials** linked from the [workshop page](https://coderefinery.github.io/2024-03-12-workshop/).
+You can find **all the materials** linked from the [workshop page](https://coderefinery.github.io/2025-03-25-workshop/).
 These materials will also be available after the workshop and you may use and reuse them as you like under CC-BY license.
 [This workshop and other workshop materials on our webpage](https://coderefinery.org/lessons/).
 
@@ -101,11 +100,17 @@ With about one day delay, you can then also find edited recordings, with tags to
 
 ### Certificates
 
-Instructions can now be found on the [workshops webpage](https://coderefinery.github.io/2024-03-12-workshop/certificates/).
+Instructions can now be found on the [workshops webpage](https://coderefinery.github.io/2025-03-25-workshop/certificates/).
 
-## Bring your own code sessions
+## Bring your own code session
 
 Optional help session around the topics of the workshop. 
 **Bring your own code** and get help from our experts in implementing the concepts learned! 
 
-Tue (Mar 26) , 13:00 - 15:00 	CET and Tue (Apr 2) , 13:00 - 15:00 CEST
+Wed (Apr 16) , 09:00 - 11:00 CEST
+
+## Chat channel for any other questions/support requests regarding the workshop
+
+Join the CodeRefinery and Nordic-RSE community chat: https://coderefinery.zulipchat.com
+Ask your questions in #help > CodeRefinery March 2025 workshop help. 
+
