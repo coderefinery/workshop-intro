@@ -10,7 +10,13 @@ We learned about (intentionally using git terminology here for you to check that
 
 ## What is coming on day 2
 
-For day 2, we'll move to local work. To follow along for day 2, you need a local VS Code installation or command line terminal set up. See the [install instructions](https://coderefinery.github.io/installation/). However, many parts can also be done through the GitHub web interface still. 
+For day 2, we'll move to local work (**command line**, **VS Code**). To follow along for day 2, you need a local VS Code installation or command line terminal set up. See the [install instructions](https://coderefinery.github.io/installation/). However, many parts can also be done through the GitHub web interface still.
+
+* **Clone** a repository from Github to your computer
+* Do many of the same things as yesterday, but on your computer
+* Inspect history on your computer (in even more detail)
+* Prepare your new project for Git + share
+* Practical advice and discussion: what to actually do.
 
 
 ---
