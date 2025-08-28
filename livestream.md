@@ -25,7 +25,7 @@ CodeRefinery is an addition to general coding classes, supporting you to make yo
 CodeRefinery is a **partnership** of Aalto university (FI),
 CSC - IT Center for Science (FI), Center for Humanities Computing (DK), 
 Danish e-Infrastructure Cooperation (DK),
-EuroCC National Competence Center Sweden (ENCCS) (SE), National Academic Infrastructure for Super­computing in Sweden (NAISS) (SE) and NRIS/Sigma2 (NO).
+EuroCC National Competence Center Sweden (ENCCS) (SE), National Academic Infrastructure for Super­computing in Sweden (NAISS) (SE), Oslo University (UiO), University of Iceland (IS) and NRIS/Sigma2 (NO).
  
 
 ## Practical matters: how to attend
@@ -36,15 +36,13 @@ This is a livestreamed workshop!
 
 **Everyone will watch the livestream** of instructors talking and showing demos on Twitch. 
 
-In week 1, there will also be exercises, which you can do in two ways: on your own or in team. 
-
-No dedicated (team) exercise time in week 2, but interaction via collaborative document. 
+There will also be exercises, which you can do in two ways: on your own or in team. 
 
 We plan on having a **minimum 10 min break every hour**.
 
 The materials are **always available for everyone**, and linked from the Workshop page. 
 
-All **recordings** will be available on twitch right away and on youtube the day after. 
+All **recordings** will be available on twitch right away and may appear on YouTube later.
 
 ### Collaborative Document
 
@@ -127,7 +125,7 @@ There is so much information!
 
 - About 10 course coordinators, instructors and facilitators
   - Many are **Research Software Engineers** (more on this in the courses outro; but you may already check out [Nordic-RSE](https://nordic-rse.org/))
-- Over 300 registered participants from over 20 different countries 
+- Over XX registered participants from over XX different countries 
 - Learners from all levels and backgrounds
 
 ## Be respectful and helpful
@@ -156,7 +154,7 @@ we follow our [Code of Conduct](https://coderefinery.org/about/code-of-conduct/)
 - You will get emails from us with updates
 - It helps us with our reporting enables us to apply for funding
 - You are registered if you got emails directly from us
-- Registration via the [workshop page](https://coderefinery.github.io/2025-03-25-workshop/)
+- Registration via the [workshop page](https://coderefinery.github.io/2025-09-09-workshop/)
 
 ### Privacy
 
@@ -167,7 +165,7 @@ we follow our [Code of Conduct](https://coderefinery.org/about/code-of-conduct/)
 
 ### Certificates
 
-- [General instructions for getting a certificate](https://coderefinery.github.io/2025-03-25-workshop/certificates/)
+- [General instructions for getting a certificate](https://coderefinery.github.io/2025-09-09-workshop/certificates/)
 
 ### CodeRefinery is an open project, [join us](https://coderefinery.org/join/)
 
@@ -181,6 +179,6 @@ Contact us at <support@coderefinery.org> if you have any questions.
 
 Please share your experiences about the workshop!
 - #CodeRefinery
-- Mastodon: [@coderefinery@fosstodon.org](https://fosstodon.org/@coderery).
+- Mastodon: [@coderefinery@fosstodon.org](https://fosstodon.org/@coderefinery).
 - BlueSky: [@coderefinery.org](https://bsky.app/profile/coderefinery.org)
 - LinkedIn: [CodeRefinery](https://www.linkedin.com/company/88414793)
