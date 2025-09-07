@@ -1,6 +1,6 @@
 
 
-# CodeRefinery: Welcome and practical information for workshops
+# CodeRefinery: Welcome and practical information
 
 ---
 
@@ -46,13 +46,16 @@ We use it to share info & links.
 
 You can use it to **ask questions** (anonymous) and let us know about **accessibility issues** (please do not use twitch chat).
 
+To write, switch from view to edit mode:
+![View and edit modes at top](https://coderefinery.github.io/manuals/_images/hackmd--controls.png)
+
+**Hands-on for all: Collaborative document and icebreaker**
+
 Usage tips:
 - Keep in view mode when not editing (live-updates may require a switch to edit mode)
 - No names/identifiable info
 
 Daily notes will be published for reference afterwards under CC-BY license.
-
-**Hands-on for all: Collaborative document and icebreaker**
 
 ## Practical Setup
 
@@ -103,7 +106,7 @@ happy to have institutional partners.**
 
 Contact us at <support@coderefinery.org>. 
 
-### Share your experience
+### Share your experience <3
 
 - #CodeRefinery
 - Mastodon: [@coderefinery@fosstodon.org](https://fosstodon.org/@coderefinery).
