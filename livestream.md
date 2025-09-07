@@ -57,10 +57,10 @@ Usage tips:
 
 Daily notes will be published for reference afterwards under CC-BY license.
 
-## Practical Setup
+## Practical setup
 
-- Course folder: Keep all materials in one place.
-- Screen arrangement: Split screen - livestream on one side, your work on the other.
+- Course folder: Keep all materials in one place
+- Screen arrangement: Split screen - livestream on one side, your work on the other
 
 ![Example screen arrangement with broadcast on one side and learner
 space on the other](https://coderefinery.github.io/manuals/_images/layout--learner-livestream-sidebyside-onebrowser.png)
@@ -74,7 +74,7 @@ If stream drops: Technical break, back in ~10 min.
 
 ## Who is here today?
 
-- About 15 course coordinators, instructors and facilitators + about 10 local hosts 
+- ~15 course coordinators, instructors and facilitators + ~10 local hosts 
 - Over 370 registered participants from almost 30 different countries 
 - Learners from all levels and backgrounds
 
@@ -106,7 +106,7 @@ happy to have institutional partners.**
 
 Contact us at <support@coderefinery.org>. 
 
-### Share your experience <3
+### Share your experience 
 
 - #CodeRefinery
 - Mastodon: [@coderefinery@fosstodon.org](https://fosstodon.org/@coderefinery).
