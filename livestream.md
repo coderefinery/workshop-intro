@@ -36,7 +36,7 @@ EuroCC National Competence Center Sweden (ENCCS) (SE), National Academic Infrast
 - **Setup:** Check [installation instructions](https://coderefinery.github.io/installation/)
 
 
-## Collaborative document - our connection
+## Collaborative notes document - our connection
 
 > It’s OK to just watch, but we encourage you to try exercises, ask questions, and share experiences.
 
@@ -49,7 +49,7 @@ You can use it to **ask questions** (anonymous) and let us know about **accessib
 To write, switch from view to edit mode:
 ![View and edit modes at top](https://coderefinery.github.io/manuals/_images/hackmd--controls.png)
 
-**Hands-on for all: Collaborative document and icebreaker**
+**Hands-on for all: Collaborative notes document and icebreaker**
 
 Usage tips:
 - Keep in view mode when not editing (live-updates may require a switch to edit mode)
@@ -67,7 +67,7 @@ space on the other](https://coderefinery.github.io/manuals/_images/layout--learn
 
 Focus order:
 1. Livestream
-2. Collaborative notes
+2. Collaborative notes document
 3. Materials page (as needed)
 
 If stream drops: Technical break, back in ~10 min.
@@ -82,8 +82,8 @@ If stream drops: Technical break, back in ~10 min.
 
 ## Workshop etiquette
 - Respect everyone’s pace
-- Help in collaborative notes is welcome, but keep it accessible
-- If something is not right: report via the collaborative notes
+- Help in collaborative notes document is welcome, but keep it accessible
+- If something is not right: report via the collaborative notes document
 - Problems? We follow our [Code of Conduct](https://coderefinery.org/about/code-of-conduct/)
 
 ## Final notes
