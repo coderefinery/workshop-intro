@@ -21,6 +21,8 @@ EuroCC National Competence Center Sweden (ENCCS) (SE), National Academic Infrast
 
 ## What you’ll learn in this workshop
 
+![6 helpful steps towards reproducible research, by Heidi Seibold](img/reproducible_research_hseibold.jpeg)
+
 - Tools and practices for reproducible research
 - Track and organize your work
 - Combine and share work safely
