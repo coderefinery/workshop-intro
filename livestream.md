@@ -1,167 +1,101 @@
 
 
-# CodeRefinery: Welcome and practical information for workshops
+# CodeRefinery: Welcome and practical information
 
 ---
 
-## Welcome everyone!
+## Welcome!
 
+We are glad you are here :)
 
-## Why are we here?
+## About CodeRefinery
 
-CodeRefinery is an addition to general coding classes, supporting you to make your code more reproducible.
+- Nordic project teaching scientific computing tools.
+- Community of research software engineers & enthusiasts.
+- Workshops & open learning materials: <coderefinery.org>
 
-![6 helpful steps towards reproducible research, by Heidi Seibold](img/reproducible_research_hseibold.jpeg)
-
-
-## What is CodeRefinery
-
-- Nordic project to teach basic scientific computing tools, funded by the Nordic e-Infrastructure Collaboration (https://neic.no) and partner organizations
-- Runs this workshop, and others like it
-- Community of research software enthusiasts
-
-**[https://coderefinery.org](https://coderefinery.org)**
-
-CodeRefinery is a **partnership** of Aalto university (FI),
+Funded by Nordic e-Infrastructure Collaboration (https://neic.no) and partners: Aalto university (FI),
 CSC - IT Center for Science (FI), Center for Humanities Computing (DK), 
 Danish e-Infrastructure Cooperation (DK),
 EuroCC National Competence Center Sweden (ENCCS) (SE), National Academic Infrastructure for Super­computing in Sweden (NAISS) (SE), Oslo University (UiO), University of Iceland (IS) and NRIS/Sigma2 (NO).
- 
 
-## Practical matters: how to attend
+## What you’ll learn in this workshop
 
-### How the workshop works
+![6 helpful steps towards reproducible research, by Heidi Seibold](img/reproducible_research_hseibold.jpeg)
 
-This is a livestreamed workshop! 
+- Tools and practices for reproducible research
+- Track and organize your work
+- Combine and share work safely
+- Collaborate effectively in teams
 
-**Everyone will watch the livestream** of instructors talking and showing demos on Twitch. 
+## How this workshop works
 
-There will also be exercises, which you can do in two ways: on your own or in team. 
+- **Format:** Livestream on Twitch + exercises (solo or group/classroom)
+- **Attendance**: Choose your own adventure. Full workshop is 9 sessions! 
+- **Materials:** Always available, linked from schedule on workshop page
+- **Recordings:** Available immediately on Twitch; later on YouTube
+- **Schedule:** We try to stick to it, 10 min break per hour
+- **Setup:** Check [installation instructions](https://coderefinery.github.io/installation/)
 
-We plan on having a **minimum 10 min break every hour**.
 
-The materials are **always available for everyone**, and linked from the Workshop page. 
+## Collaborative notes document - our connection
 
-All **recordings** will be available on twitch right away and may appear on YouTube later.
+> It’s OK to just watch, but we encourage you to try exercises, ask questions, and share experiences.
 
-### Collaborative Document
+![Example questions in collaborative document](https://coderefinery.github.io/manuals/_images/hackmd--questions2.png)
 
-Even though this is a livestream workshop, you are never alone, we use a collaborative document as our **connection to you**. 
-We use it:
+We use it to share info & links.
 
-- to **distribute information** to you.
+You can use it to **ask questions** (anonymous) and let us know about **accessibility issues** (please do not use twitch chat).
 
-- as a "chat":
-  - let us know about **accessibility issues**
-  - **ask questions**
-  - Note: It is anonymous!
-    
-  ![Example questions in collaborative document](https://coderefinery.github.io/manuals/_images/hackmd--questions2.png)
-
-- Please don't use the Twitch chat for questions about the content!
-
-#### Collaborative document usage
-
-You can switch between view and edit modes:
+To write, switch from view to edit mode:
 ![View and edit modes at top](https://coderefinery.github.io/manuals/_images/hackmd--controls.png)
 
-- You might have to switch to edit mode once to get live updates (then you can go back to view)
-- Please leave in view mode if you aren't actively using it
+**Hands-on for all: Collaborative notes document and icebreaker**
 
-**Hands-on for all: Collaborative document and icebreaker**
+Usage tips:
+- Keep in view mode when not editing (live-updates may require a switch to edit mode)
+- No names/identifiable info
 
-## Practical setup for the workshop
+Daily notes will be published for reference afterwards under CC-BY license.
 
-### Own course directory
+## Practical setup
 
-We suggest to create a directory/folder for this course on your computer, where you can store all exercise materials etc., to make it easy to clean up later.  
-
-### Screen arrangement
-
-This workshop provides many things to keep track of. We suggest: 
-
-We share a vertical window, so half of the screen is for us, and half is for your own work.
+- Course folder: Keep all materials in one place
+- Screen arrangement: Split screen - livestream on one side, your work on the other
 
 ![Example screen arrangement with broadcast on one side and learner
 space on the other](https://coderefinery.github.io/manuals/_images/layout--learner-livestream-sidebyside-onebrowser.png)
 
-### Where to focus?
+Focus order:
+1. Livestream
+2. Collaborative notes document
+3. Materials page (as needed)
 
-There is so much information!  
-
-1. **Livestream** - first priority
-2. **Collaborative document** - to find info or post questions and find answers
-3. **Lesson material webpage** (as needed)
-
-## Things that can (and likely will) go wrong
-
-### There are major accessibility problems
-- e.g. audio quality is bad, screen not visible, breaks not coming, unintelligble explanation...
-- Write the problem in the bottom of the collaborative document immediately.
-
-### We deviate from the schedule
-- We try to stay on track, but sometimes things do not go as planned and we have to leave out some (sub-)topic.
-
-### Collaborative document lags and you can't edit / text goes wrong
-- This sometimes happens with high load
-- Everyone: Switch to "view mode" and wait for it to calm down.
-- Wait a moment, workshop staff will move older content to archive to lower the load.
-
-### The stream suddenly dies
-- Broadcaster's computer has crashed.
-- Stay around and it will resume in about 5 minutes.
-
-### You don't yet have some important software installed or configured
-- Oops... but it's OK
-- Switch to "watching" mode and work on fixing it for the next day.
-- Check [installation instructions](https://coderefinery.github.io/installation/) to see what may be missing.
-
-### You can't attend every day
-- Attend only the parts you are interested in 
-- Materials are always available
-- Video availability right away on Twitch, next day on YouTube
+If stream drops: Technical break, back in ~10 min.
 
 ## Who is here today?
 
-- About 10 course coordinators, instructors and facilitators
-  - Many are **Research Software Engineers** (more on this in the courses outro; but you may already check out [Nordic-RSE](https://nordic-rse.org/))
-- Over XX registered participants from over XX different countries 
+- ~15 course coordinators, instructors and facilitators + ~10 local hosts 
+- Over 370 registered participants from almost 30 different countries 
 - Learners from all levels and backgrounds
 
-## Be respectful and helpful
+## We value openness, collaboration, and curiosity - it’s fine if not everything works right away.
 
-If you know some of the material already, please help answering questions on the collaborative document.
-
-Some things to keep in mind:
-
-- **Everyone here is at different levels, and that's expected.**
-  Everyone will be learning different things, and everyone will focus
-  on different topics. Passive learning is OK.
-- ***Everyone* here is both a teacher and a learner.**  Be careful
-  that your help is at the right level, considering the above.
-- **When something isn't going right, *use the collaborative document to let us know quickly***.
-  We want to help, even if the answer is "let's discuss later".
-
-## Code of Conduct
-
-In the worst case, there may be a problem with someone (instructor or fellow learner).  In that case,
-we follow our [Code of Conduct](https://coderefinery.org/about/code-of-conduct/). 
+## Workshop etiquette
+- Respect everyone’s pace
+- Help in collaborative notes document is welcome, but keep it accessible
+- If something is not right: report via the collaborative notes document
+- Problems? We follow our [Code of Conduct](https://coderefinery.org/about/code-of-conduct/)
 
 ## Final notes
 
 ### Please register if you haven't yet
 
 - You will get emails from us with updates
-- It helps us with our reporting enables us to apply for funding
+- Having real numbers helps us with our reporting enables us to apply for funding
 - You are registered if you got emails directly from us
 - Registration via the [workshop page](https://coderefinery.github.io/2025-09-09-workshop/)
-
-### Privacy
-
-- **Don't put names or identifiable info in the collaborative document at any
-  time**
-- Collaborative document contents will be posted on the workshop page after each day
-- All outputs are CC-BY
 
 ### Certificates
 
@@ -172,12 +106,10 @@ we follow our [Code of Conduct](https://coderefinery.org/about/code-of-conduct/)
 **We need volunteers and partners to continue making this a success in the future.  We are also
 happy to have institutional partners.**
 
-Contact us at <support@coderefinery.org> if you have any questions. 
+Contact us at <support@coderefinery.org>. 
 
+### Share your experience 
 
-### Social media
-
-Please share your experiences about the workshop!
 - #CodeRefinery
 - Mastodon: [@coderefinery@fosstodon.org](https://fosstodon.org/@coderefinery).
 - BlueSky: [@coderefinery.org](https://bsky.app/profile/coderefinery.org)
