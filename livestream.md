@@ -31,7 +31,7 @@ EuroCC National Competence Center Sweden (ENCCS) (SE), National Academic Infrast
 ## How this workshop works
 
 - **Format:** Livestream on Twitch + exercises (solo or group/classroom)
-- **Attendance**: Choose your own adventure. Full workshop is 9 sessions! 
+- **Attendance**: Choose your own adventure. Full workshop is 6 half-days! 
 - **Materials:** Always available, linked from schedule on workshop page
 - **Recordings:** Available immediately on Twitch; later on YouTube
 - **Schedule:** We try to stick to it, 10 min break per hour
@@ -77,7 +77,7 @@ If stream drops: Technical break, back in ~10 min.
 ## Who is here today?
 
 - ~15 course coordinators, instructors and facilitators + ~10 local hosts 
-- Over 370 registered participants from almost 30 different countries 
+- About 600 registered participants from 30 different countries 
 - Learners from all levels and backgrounds
 
 ## We value openness, collaboration, and curiosity - it’s fine if not everything works right away.
@@ -95,11 +95,11 @@ If stream drops: Technical break, back in ~10 min.
 - You will get emails from us with updates
 - Having real numbers helps us with our reporting enables us to apply for funding
 - You are registered if you got emails directly from us
-- Registration via the [workshop page](https://coderefinery.github.io/2025-09-09-workshop/)
+- Registration via the [workshop page](https://coderefinery.github.io/2026-03-17-workshop/)
 
 ### Certificates
 
-- [General instructions for getting a certificate](https://coderefinery.github.io/2025-09-09-workshop/certificates/)
+- [General instructions for getting a certificate](https://coderefinery.github.io/2026-03-17-workshop/certificates/)
 
 ### CodeRefinery is an open project, [join us](https://coderefinery.org/join/)
 
