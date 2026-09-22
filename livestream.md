@@ -17,7 +17,7 @@ We are glad you are here :)
 Funded by Nordic e-Infrastructure Collaboration (https://neic.no) and partners: Aalto university (FI),
 CSC - IT Center for Science (FI), Center for Humanities Computing (DK), 
 Danish e-Infrastructure Cooperation (DK),
-EuroCC National Competence Center Sweden (ENCCS) (SE), National Academic Infrastructure for Super­computing in Sweden (NAISS) (SE), Oslo University (UiO), University of Iceland (IS) and NRIS/Sigma2 (NO).
+EuroCC National Competence Center Sweden (ENCCS) (SE), National Academic Infrastructure for Super­computing in Sweden (NAISS) (SE), Oslo University (UiO), University of Iceland (IS), NRIS/Sigma2 (NO) and Helsinki University (FI).
 
 ## What you’ll learn in this workshop
 
@@ -76,8 +76,8 @@ If stream drops: Technical break, back in ~10 min.
 
 ## Who is here today?
 
-- ~15 course coordinators, instructors and facilitators + ~10 local hosts 
-- About 600 registered participants from 30 different countries 
+- ~15 course coordinators, instructors and facilitators + local hosts 
+- About 350 registered participants from 30 different countries 
 - Learners from all levels and backgrounds
 
 ## We value openness, collaboration, and curiosity - it’s fine if not everything works right away.
@@ -95,11 +95,11 @@ If stream drops: Technical break, back in ~10 min.
 - You will get emails from us with updates
 - Having real numbers helps us with our reporting enables us to apply for funding
 - You are registered if you got emails directly from us
-- Registration via the [workshop page](https://coderefinery.github.io/2026-03-17-workshop/)
+- Registration via the [workshop page](https://coderefinery.github.io/2026-09-22-workshop/)
 
 ### Certificates
 
-- [General instructions for getting a certificate](https://coderefinery.github.io/2026-03-17-workshop/certificates/)
+- [General instructions for getting a certificate](https://coderefinery.github.io/2026-09-22-workshop/certificates/)
 
 ### CodeRefinery is an open project, [join us](https://coderefinery.org/join/)
 
